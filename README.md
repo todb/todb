@@ -1,8 +1,4 @@
-## Hi there 👋
-
-I'll fill this in with widgets and geegaws later, I'm sure. This is my primary GitHub account. I also control [@todb-r7](https://github.com/todb-r7), but that account will likely fade into history.
-
-## Contact
+## Hello there! 👋
 
   - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main Mastodon account (Here's my [intro](https://infosec.exchange/@todb/109270457002321619).)
   - 💬 *5 won 2 dash 4 3 ate hyphen 9 uno six 5* is my Signal number. Works for Signal Voice too.
