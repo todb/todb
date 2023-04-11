@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'll fill this in with widgets and geegaws later, I'm sure. This is my primary GitHub account. I also control @todb-r7, but that will likely fade into history.
+I'll fill this in with widgets and geegaws later, I'm sure. This is my primary GitHub account. I also control [@todb-r7](https://github.com/todb-r7), but that account will likely fade into history.
 
 ## Contact
 
