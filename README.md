@@ -14,8 +14,9 @@ I'll fill this in with widgets and geegaws later, I'm sure. This is my primary G
 
 ## GitHub
 
-As of Q2 of 2023, I appear to be the 17th most prolific committer to the [Metasploit Framework](https://github.com/rapid7/metasploit-framework/graphs/contributors). Woo-hoo! Here are some more recent GitHub stats, which I imagine are pretty pathetic right now.
+As of Q2 of 2023, I appear to be the 17th most prolific committer to the [Metasploit Framework](https://github.com/rapid7/metasploit-framework/graphs/contributors). Woo-hoo! Here are some more GitHub stats.
 
-[![Tod's GitHub stats](https://github-readme-stats.vercel.app/api?username=todb)](https://github.com/anuraghazra/github-readme-stats)
+[![Todb-R7's GitHub stats](https://github-readme-stats.vercel.app/api?username=todb-r7&custom_title=todb-r7+stats+for+all-time&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Todb's GitHub stats](https://github-readme-stats.vercel.app/api?username=todb&custom_title=todb+stats&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
