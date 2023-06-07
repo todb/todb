@@ -7,7 +7,7 @@
   - 📧 My most reliable email right now is a toss up between todb@packetfu.com and todb@hugesuccess.org.
   - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) on Discord, and Discord is a surprisingly effective way to reach me quickly.
   - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todbeardsley/), and trying to be more active there.
-    - I'm afraid it's still mostly just me lashing out at toxic positivity, though. 
+    - 😈 I'm afraid it's still mostly just me lashing out at toxic positivity, though. 
 
 ## GitHub
 
