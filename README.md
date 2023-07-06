@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-  - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main Mastodon account (Here's my [intro](https://infosec.exchange/@todb/109270457002321619).)
+  - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main Mastodon account.
   - 🇺🇸 [todb-cisa](https://github.com/todb-cisa) is my work account. The same human operates both.
     - 🕴️ My old work acount is/was [todb-r7](https://github.com/todb/todb-r7). It's still mine but mostly unmaintained. 
   - 💬 *5 won 2 dash 4 3 ate hyphen 9 uno six 5* is my Signal number. Works for Signal Voice too.
@@ -9,8 +9,8 @@
   - 📧 My most reliable email right now is a toss up between todb@packetfu.com and todb@hugesuccess.org.
     - They end up at the same place.
   - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) on Discord, and Discord is a surprisingly effective way to reach me quickly.
-  - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todbeardsley/), and trying to be more active there.
-    - 😈 I'm afraid it's still mostly just me lashing out at toxic positivity, though. 
+  - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todbeardsley/), but bad at responding there.
+  - 🔵 I'm on [BlueSky](https://bsky.app/profile/todb.bsky.social), also not really interested in posting there.
 
 ## GitHub
 
