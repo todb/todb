@@ -10,7 +10,7 @@
     - They end up at the same place.
   - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) on Discord, and Discord is a surprisingly effective way to reach me quickly.
   - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todbeardsley/), but bad at responding there.
-  - 🔵 I'm on [BlueSky](https://bsky.app/profile/todb.bsky.social), also not really interested in posting there.
+  - 🔵 I'm on [BlueSky](https://bsky.app/profile/todb.hugesuccess.org), also not really interested in posting there.
 
 ## GitHub
 
