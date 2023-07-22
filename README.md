@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
   - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main Mastodon account.
-  - 🇺🇸 [todb-cisa](https://github.com/todb-cisa) is my work account. The same human operates both.
+  - 🇺🇸 [todb-cisa](https://github.com/todb-cisa) is my work account. The same human operates both [todb-cisa](https://github.com/todb-cisa) and [todb](https://github.com/todb).
     - 🕴️ My old work acount is/was [todb-r7](https://github.com/todb/todb-r7). It's still mine but mostly unmaintained. 
   - 💬 *5 won 2 dash 4 3 ate hyphen 9 uno six 5* is my Signal number. Works for Signal Voice too.
   - ☎️ The above is also my phone number, but I don't often answer it, with the help of [RoboKiller](https://www.robokiller.com/).
