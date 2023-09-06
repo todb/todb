@@ -11,6 +11,7 @@
   - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) on Discord, and Discord is a surprisingly effective way to reach me quickly.
   - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todb/), but bad at responding there.
   - 🔵 I'm on [BlueSky](https://bsky.app/profile/todb.hugesuccess.org), also not really interested in posting there.
+  - ✨ My bio is [here](https://gist.github.com/todb/469b745685131ed475b5050569532ea3).
 
 ## GitHub
 
