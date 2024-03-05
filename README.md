@@ -15,7 +15,7 @@
 
 ## GitHub
 
-As of Q2 of 2023, I appear to be the 17th most prolific committer to the [Metasploit Framework](https://github.com/rapid7/metasploit-framework/graphs/contributors). Woo-hoo! Here are some more GitHub stats.
+Here are some GitHub stats. Sometimes these work.
 
 [![Todb-R7's GitHub stats](https://github-readme-stats.vercel.app/api?username=todb-r7&custom_title=todb-r7's+overall+commits&show_icons=true&include_all_commits=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 [![Todb's GitHub stats](https://github-readme-stats.vercel.app/api?username=todb&custom_title=todb's+commits+this+year&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
