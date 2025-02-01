@@ -1,17 +1,17 @@
 ## Hello there! 👋
 
   - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main Mastodon account.
-  - 🇺🇸 [todb-cisa](https://github.com/todb-cisa) is my work account. The same human operates both [todb-cisa](https://github.com/todb-cisa) and [todb](https://github.com/todb).
-    - 🕴️ My old work acount is/was [todb-r7](https://github.com/todb/todb-r7). It's still mine but mostly unmaintained. 
+  - 👾 This is my main GitHub account.
+    - [todb-cisa](https://github.com/todb-cisa) and [todb-r7](https://github.com/todb/todb-r7) are old work accounts. They linger for signed commit reasons.
   - 💬 *5 won 2 dash 4 3 ate hyphen 9 uno six 5* is my Signal number. Works for Signal Voice too.
   - ☎️ The above is also my phone number, but I don't often answer it, with the help of [RoboKiller](https://www.robokiller.com/).
-  - 🔐 I hate PGP, but still kinda like [Keybase](https://keybase.io/todb).
+  - 🔐 I hate PGP, and my affair with [Keybase](https://keybase.io/todb) has all but ended.
   - 📧 My most reliable email right now is todb@hugesuccess.org (ProtonMail).
   - 📧 A close second is todb@packetfu.com (GMail).
-  - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) on Discord, and Discord is a surprisingly effective way to reach me quickly.
+  - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) (usually @todb) on Discord, and Discord is a surprisingly effective way to reach me quickly.
   - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todb/), but bad at responding there.
-  - 🔵 I'm on [BlueSky](https://bsky.app/profile/todb.hugesuccess.org), also not really interested in posting there.
-  - ✨ My bio is [here](https://gist.github.com/todb/469b745685131ed475b5050569532ea3).
+  - 🔵 I'm on BlueSky as [todb](https://bsky.app/profile/todb.hugesuccess.org) and repost from Mastodon as [todb2](https://bsky.app/profile/todb2.hugesuccess.org)
+  - ✨ My bio is often current [here](https://gist.github.com/todb/469b745685131ed475b5050569532ea3) on GitHub.
 
 ## GitHub
 
