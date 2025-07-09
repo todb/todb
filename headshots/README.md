@@ -1,4 +1,4 @@
-# Head shots!
+# todb head shots
 
 Here are some head shots, recorded in middle 2025. You can also use his [bio](https://gist.github.com/todb/469b745685131ed475b5050569532ea3) to describe him.
 
