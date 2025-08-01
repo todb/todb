@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-  - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main Mastodon account.
+  - 🐘 [@todb@infosec.exchange](https://infosec.exchange/@todb) is my main social media account.
   - 👾 This is my main GitHub account.
     - [todb-cisa](https://github.com/todb-cisa) and [todb-r7](https://github.com/todb/todb-r7) are old work accounts. They linger for signed commit reasons.
   - 💬 *5 won 2 dash 4 3 ate hyphen 9 uno six 5* is my Signal number. Works for Signal Voice too.
