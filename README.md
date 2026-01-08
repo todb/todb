@@ -10,7 +10,7 @@
   - 📧 My most reliable and private email right now is todb@hugesuccess.org (ProtonMail). So encrypted!
   - 📧 A close second is todb@packetfu.com (GMail).
   - 📧 My work email is todb@runzero.com (Also GMail).
-  - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) (usually @todb) on Discord, and Discord is a surprisingly effective way to reach me quickly.
+  - 😱 I'm [741343407133425726](https://discordapp.com/users/741343407133425726) (usually @todb) on Discord.
   - 🤑 I'm on [LinkedIn](https://www.linkedin.com/in/todb/), but bad at responding there.
   - 🔵 I'm on BlueSky as [todb](https://bsky.app/profile/todb.hugesuccess.org) and repost from Mastodon as [todb2](https://bsky.app/profile/todb2.hugesuccess.org).
   - ✨ My bio is often current [here](https://gist.github.com/todb/469b745685131ed475b5050569532ea3) on GitHub.
