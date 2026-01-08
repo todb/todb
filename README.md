@@ -4,6 +4,7 @@
   - 👾 This is my main GitHub account.
     - [todb-cisa](https://github.com/todb-cisa) and [todb-r7](https://github.com/todb/todb-r7) are old work accounts. They linger for signed commit reasons.
   - 💬 *5 won 2 dash 4 3 ate hyphen 9 uno six 5* is my Signal number. Works for Signal Voice too.
+  - 📱 My Signal username is `todb.512`.
   - ☎️ The above is also my phone number, but I don't often answer it, with the help of [RoboKiller](https://www.robokiller.com/).
   - 🔐 I hate PGP, and my affair with [Keybase](https://keybase.io/todb) has ended.
     - But if you must: [PGP key](https://raw.githubusercontent.com/todb/todb/refs/heads/main/publickey.todb%40hugesuccess.org-b6b57aa843d05fc813249d0eed39940efbccb12f.txt)
