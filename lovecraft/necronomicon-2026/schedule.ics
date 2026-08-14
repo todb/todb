@@ -1,0 +1,2821 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//necronomicon-2026//blended schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NecronomiCon Providence 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:fri-01@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T120000Z
+DTEND:20260814T220000Z
+SUMMARY:🟢 Convention Registration
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Attendees pick up their convention badges at the registration 
+ table on the second floor landing of the Graduate Hotel. Print your Event
+ brite pass or ticket (or have it ready to scan on a smartphone) to redeem
+  for a badge. Requires a convention pass\; registration itself is free to
+  process. Full listing: https://github.com/todb/todb/blob/main/lovecraft/
+ necronomicon-2026/README.md#fri-01
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-01
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-02@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T120000Z
+DTEND:20260814T133000Z
+SUMMARY:🔵 Tainted and Impure: Environmental Contamination in the Weird
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:A discussion on the feeling of "ick" and our response to real 
+ and imagined environmental contamination — how ideas of purity and poll
+ ution are entwined\, and what they mean from a moral\, literary\, and sci
+ entific perspective. Panelists: Rick Claypool (Moderator)\, Chesya Burke\
+ , Eric Schaller\, K. H. Vaughan\, Mathilda Zeller. Full listing: https://
+ github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-
+ 02
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-02
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-03@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T120000Z
+DTEND:20260814T133000Z
+SUMMARY:🔵 Daphne du Maurier: A Strange Creature
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Du Maurier (English\, 1907–1989) wrote broadly\, including r
+ omantic\, historical\, adventure\, and biography\, often with an underlyi
+ ng hint of darkness or the supernatural\, as in Don't Look Now\, The Appl
+ e Tree\, The Blue Lenses\, and The Birds. Panelists discuss her work\, co
+ ntroversies\, and legacy. Panelists: Adam Golaski (Moderator)\, Victoria 
+ Dalpe\, Robert Levy\, Anya Martin. Full listing: https://github.com/todb/
+ todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-03
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-03
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-04@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T120000Z
+DTEND:20260814T133000Z
+SUMMARY:🔵 Pre-Lovecraft Sources of Cosmic Horror
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Practitioners\, and even masters\, of cosmic horror existed be
+ fore Lovecraft\, and were powerful influences on his work. Poe\, Blackwoo
+ d\, Bierce\, Machen\, Chambers\, and Dunsany are inevitably cited — but
+  to what extent did HPL capture and solidify previous work\, and at what 
+ point did his cosmic horror take on a life of its own? Panelists: Matthew
+  Carpenter (Moderator)\, Leslie S. Klinger\, Will Murray\, Peter Rawlik. 
+ Full listing: https://github.com/todb/todb/blob/main/lovecraft/necronomic
+ on-2026/README.md#fri-04
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-04
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-05@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T120000Z
+DTEND:20260814T133000Z
+SUMMARY:🔵 A People's History of The Cthulhu Mythos: Leftist Appraisal a
+ nd Reinterpretation
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Are colonialism\, capitalism\, and racism inherent in the foun
+ dation of the Mythos? What is the textual role of class in Lovecraft's wo
+ rk\, and how have recent works attempted to reimagine or critique its und
+ erlying ideologies? Panelists: Edward Guimont (Moderator)\, Alexander Dic
+ kow\, Khora Martel\, Tonya Monteforte\, Eric Williams. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ fri-05
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-05
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-06@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T120000Z
+DTEND:20260814T133000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Matthew M Bartlett\, Nathan Carson\, Cody Goodfell
+ ow\, and Darrell Schweitzer. Full listing: https://github.com/todb/todb/b
+ lob/main/lovecraft/necronomicon-2026/README.md#fri-06
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-06
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-07@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🟣 Armitage Session 1: Weird Fiction Itineraries — Literary Ge
+ ography and Archival Landscapes
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Eric Steinhart. Papers: Dani
+ el J. Holmes\, "From Quebec to Kadath: Echoes of Canada in Lovecraft's La
+ te Fiction"\; Heather Miller\, "'Vigilant and Insomniac Rationality' in C
+ onrad and Lovecraft"\; Katherine Kerestman\, "Galahad in the Rubble: Fran
+ k Belknap Long's Letters to Donald Wandrei\, 1927–1975." Full listing: 
+ https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README
+ .md#fri-07
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-07
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-08@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🔵 Environmental Activism and Weird Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Climate change\, invasive species\, and habitat destruction ar
+ en't foreign concepts in the world of the Weird\, which uses these disast
+ ers to fuel its surreal landscapes and uncanny phenomena. Panelists discu
+ ss how weird fiction inspires calls to action. Panelists: Rick Claypool (
+ Moderator)\, Chesya Burke\, Timothy J. Jarvis\, Victoria Nations\, Jon Pa
+ dgett. Full listing: https://github.com/todb/todb/blob/main/lovecraft/nec
+ ronomicon-2026/README.md#fri-08
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-08
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-09@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🔵 Ars Necronomica Panel
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Artists from this year's art show at AS220 discuss their work 
+ and inspirations\, and what's happening in the world of weird art. Paneli
+ sts: Ted DiLucia\, Stephen Gervais\, Kurt Komoda\, Liv Rainey-Smith\, Kay
+ te Terry. Full listing: https://github.com/todb/todb/blob/main/lovecraft/
+ necronomicon-2026/README.md#fri-09
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-09
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-10@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🔵 Theosophy and Weird Fiction: How Did the Esoterica of Madame 
+ Blavatsky Influence Cosmic Horror
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The esoterica of theosophy may have influenced major weird fic
+ tion writers of the 1920s and 1930s\, including Lovecraft\, Machen\, Duns
+ any\, Howard\, and Smith. Did the commonalities come from direct influenc
+ e\, second-hand\, or a broader cultural zeitgeist? Panelists: Curtis M. L
+ awson (Moderator)\, Kenneth Hite\, Sean Moreland\, Eric Williams\, Justin
+  Woodman. Full listing: https://github.com/todb/todb/blob/main/lovecraft/
+ necronomicon-2026/README.md#fri-10
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-10
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-11@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🔵 Corporate Horror
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Cubicles\, paperwork\, horrible bosses\, and unseen masters 
+ — Ligotti\, Ballard\, and others have explored the strange and terrifyi
+ ng world under the baleful eye of corporate ownership. Panelists explore 
+ how Late-Stage Capitalism's 9-5 serves as a backdrop for the Cosmic's the
+ mes of existentialism and human insignificance. Panelists: John Foster (M
+ oderator)\, Gillian Daniels\, Errick Nunnally\, Jeff VanderMeer. Full lis
+ ting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/
+ README.md#fri-11
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-11
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-12@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Michelle Renee Lane\, Nate Pedersen\, Peter Rawlik
+ \, and Matthew Spencer. Full listing: https://github.com/todb/todb/blob/m
+ ain/lovecraft/necronomicon-2026/README.md#fri-12
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-12
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-13@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T150000Z
+SUMMARY:🔵 WORKSHOP: Improving Your Skills as a Moderator
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Moderators can make or break a panel. This interactive worksho
+ p explores planning\, organizing\, and running a panel: how to engage pan
+ elists\, keep things on track\, share the microphone\, and handle disagre
+ ement. Led by Trisha J. Wooldridge and K. H. Vaughan. Full listing: https
+ ://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#f
+ ri-13
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-13
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-14@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T133000Z
+DTEND:20260814T161500Z
+SUMMARY:🟢 Walking Tour (Donovan Loucks)
+LOCATION:Check the convention's Walking Tour page for the current meet-up 
+ spot
+DESCRIPTION:A guided walking tour of Lovecraft-related sites around Provid
+ ence\, led by Donovan Loucks. Requires a separate $15 ticket\; meeting po
+ int and details are on the convention's Walking Tour page. Full listing: 
+ https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README
+ .md#fri-14
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-14
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-15@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T220000Z
+SUMMARY:🟢 Vendor Hall / Grand Emporium of the Weird
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Over 60 vendors set up shop in the Omni's Narragansett Ballroo
+ m\, selling weird-fiction books\, art\, oddities\, and convention merchan
+ dise. Opens early at 10:00a for Golden/Silver Key holders\; general admis
+ sion begins 11:00a. Requires a convention pass. Full listing: https://git
+ hub.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-15
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-15
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-16@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T160000Z
+SUMMARY:🟢 Voices in the Dark – A Short Exploration of (Ghost) Stories
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A ghost-story performance set in the hills of Wales\, where La
+ vinia Ravenwood trades strange stories with the audience while attempting
+  to uncover the truth of a manor haunted by Randolph Carter. The premiere
+  of "Voices in the Dark\," a Key of Dreams production by JD Henshaw and H
+ eather-Rose Andrews\; repeats Sunday afternoon. $10 covers the whole day 
+ of AS220 theatrical events. Full listing: https://github.com/todb/todb/bl
+ ob/main/lovecraft/necronomicon-2026/README.md#fri-16
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-16
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-17@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🟣 Armitage Session 2: Transcendence and Transgressions in Mytho
+ s-making
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Eddie Guimont. Papers: Byron
+  Nakamura\, "A Shared Bond through Greece and Rome: Classical References 
+ in the Letters of HP Lovecraft and Frank Belknap Long"\; Sean Moreland\, 
+ "Animi Terrores: The Lucretian Roots of Cosmic Horror and Folk Horror"\; 
+ Luke Matthews\, "Lovecraft's Influence on UFO/UAP Ontologies"\; Eric Will
+ iams\, "Two-Fisted Horror: Baring-Gould's Grettir the Outlaw and its infl
+ uence on Robert E. Howard." Full listing: https://github.com/todb/todb/bl
+ ob/main/lovecraft/necronomicon-2026/README.md#fri-17
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-17
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-18@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 In Mountains Older than Bones: Appalachian Gothic
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:On America's cultural map\, Appalachia is the equivalent of "H
+ ere there be monsters." Panelists discuss what defines Appalachian Gothic
+ \, good and bad examples of the genre\, and why the region has such a hol
+ d on the popular imagination. Panelists: Mike Allen (Moderator)\, Luke Do
+ dd\, Tonya Monteforte\, Shanna Germain\, Stephen Mark Rainey. Full listin
+ g: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-18
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-18
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-19@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 Arthur Machen: A Weird Life
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Arthur Machen came first on Lovecraft's list of "masters of co
+ smic horror." The panel explores the breadth of his writing in the contex
+ t of his changing fortunes and strange encounters\, from Wales to Bohemia
+ n London and the Hermetic Order of the Golden Dawn. Presented by the Arth
+ ur Machen Society. Panelists: Dean W Zimmerman (Moderator)\, Timothy J Ja
+ rvis\, Melissa Stewart\, Eric Steinhart\, Aaron Worth. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ fri-19
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-19
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-20@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 Religion in The Call of Cthulhu RPGs
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Call of Cthulhu incorporates real-world faiths\, necessitating
+  a balance between Mythos flavor and evolving cultural sensibilities. Pan
+ elists discuss notable appearances of real faiths in CoC and offer advice
+  to Keepers on respectfully incorporating them. Panelists: Peter Bebergal
+ \, J F Martel\, Mike Mason. Full listing: https://github.com/todb/todb/bl
+ ob/main/lovecraft/necronomicon-2026/README.md#fri-20
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-20
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-21@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 That Abandoned Mall is Still Playing Music: Theory and Histor
+ y of Hauntology
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:"Hauntology" generally refers to the persistence of the ghosts
+  of a possible future that did not come — from an abandoned home's deca
+ ying Christmas gifts to a city scarred by war. Panelists discuss left-beh
+ ind futures in architecture\, language\, art\, and social structures. Pan
+ elists: Gillian Daniels (Moderator)\, Gabriel Mesa\, Allen B. Ruch\, Matt
+ hew Spencer\, Sonya Taaffe\, Jeff VanderMeer. Full listing: https://githu
+ b.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-21
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-21
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-22@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 SPECIAL PRESENTATION: Masters of Monsters — The Tradition o
+ f Horror in Japanese Folklore and Manga
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:From the ancient weird energy of mononoke to the rise of yokai
+  in the Edo period\, Japanese storytellers have a well of frights to draw
+  on. Presented by renowned folklorist Zack Davisson\, author of The Ultim
+ ate Guide to Japanese Yokai. Full listing: https://github.com/todb/todb/b
+ lob/main/lovecraft/necronomicon-2026/README.md#fri-22
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-22
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-23@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by John Langan\, Laura Langrish\, Zin E. Rocklyn\, an
+ d Jason A. Wyckoff. Full listing: https://github.com/todb/todb/blob/main/
+ lovecraft/necronomicon-2026/README.md#fri-23
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-23
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-24@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T150000Z
+DTEND:20260814T163000Z
+SUMMARY:🔵 WORKSHOP: Improving Your Skills as a Panelist
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:An interactive workshop on what makes for an entertaining\, in
+ formative\, memorable panelist: preparation\, negotiating topics\, mic et
+ iquette\, and the Deadly Sins to avoid. Led by Trisha J. Wooldridge and K
+ . H. Vaughan. Full listing: https://github.com/todb/todb/blob/main/lovecr
+ aft/necronomicon-2026/README.md#fri-24
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-24
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-25@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T160000Z
+DTEND:20260814T210000Z
+SUMMARY:🟢 Ars Necronomica: A Call into the Abyss (Art Exhibition)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A three-week group art exhibition featuring over 20 artists wo
+ rking in weird and cosmic-horror-inspired art\, open across multiple conv
+ ention days. Free and open to the public. Full listing: https://github.co
+ m/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-25
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-25
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-26@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T161500Z
+DTEND:20260814T171500Z
+SUMMARY:🟢 Thomas Ligotti's "The Bungalow House"
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A rare live performance of Ligotti's unsettling story\, featur
+ ing voice actor Jon Padgett's narration alongside musician Chris Bozzone'
+ s live scoring\, building an atmosphere of mounting dread as the protagon
+ ist searches for release from a heartbreaking sadness. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ fri-26
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-26
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-27@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T163000Z
+DTEND:20260814T174500Z
+SUMMARY:🟢 Meet the Cast of Dark Providence!
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:A lunchtime panel and meet-and-greet with the cast of the live
+  audio drama "Dark Providence\," which first premiered at NecronomiCon a 
+ decade ago. Bring your lunch and chat with creators Patrick Hayle\, Clark
+  Huggins\, and Zuzanna Szadkowski (Gossip Girl\, The Knick)\, plus other 
+ performers and producers. The full live performance is staged separately 
+ at the Black Box Theater\, Friday at 4:00p or Saturday at 6:00p. Full lis
+ ting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/
+ README.md#fri-27
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-27
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-28@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T163000Z
+DTEND:20260814T180000Z
+SUMMARY:🟠 Strange Magick (Documentary)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Directed by Bill Darmon\, this documentary follows occultist A
+ leister Crowley and H. P. Lovecraft in World War I-era New Hampshire\, un
+ covering hidden connections between esoteric magic and historical espiona
+ ge. Full listing: https://github.com/todb/todb/blob/main/lovecraft/necron
+ omicon-2026/README.md#fri-28
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-28
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-29@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T190000Z
+SUMMARY:🟢 TL Wiswell's The Magic Lantern "Call of Cthulhu"
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:At a meeting of the Boston Theosophical Brotherhood\, esoteric
+  traveller Miranda Carter shares her theory about the ghost ship Alert\, 
+ including an undeveloped bit of film shown live on stage for the first ti
+ me ever. TL Wiswell brings "Call of Cthulhu" to life using an antique-sty
+ le magic lantern with hand-painted glass plates. Full listing: https://gi
+ thub.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-29
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-29
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-30@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🟣 Invited Academic Speakers 1
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Allison Horrocks\, "Walking the Line: Spiritualism and Public 
+ History\," on what distinguishes a cemetery tour from a séance and how h
+ istorians' methods differ from mediums'. Stefani Koorey\, "Forty Whacks a
+ nd Due Process: How Massachusetts Law Made and Unmade the Case Against Li
+ zzie Borden\," on the procedural path of the Borden case and what happens
+  when the law formally acquits someone a community has already convicted.
+  Full listing: https://github.com/todb/todb/blob/main/lovecraft/necronomi
+ con-2026/README.md#fri-30
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-30
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-31@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 Worlds of Savagery\, Super-science\, and Sorcery: the Post-Ap
+ ocalyptic Dark Ages in Weird Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:An exploration of works about people living generations after 
+ industrial civilization's collapse\, from Thundarr the Barbarian and Gamm
+ a World to Canticle for Leibowitz and The Road. Panelists: Curtis M. Laws
+ on (Moderator)\, F. Brett Cox\, Larissa Glasser\, Jacy Morris\, Douglas E
+  Winter. Full listing: https://github.com/todb/todb/blob/main/lovecraft/n
+ ecronomicon-2026/README.md#fri-31
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-31
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-32@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 Poe and Whitman in Providence
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Between 1845 and 1848\, Poe visited Providence\, culminating i
+ n his courtship of poet Sarah Helen Whitman. Panelists discuss his time h
+ ere\, the effect on their lives and work\, and Whitman's role in preservi
+ ng his legacy. Panelists: John Langan (Moderator)\, Chad Anctil\, Christa
+  Carmen\, Joshua Rex\, Meg Smith. Full listing: https://github.com/todb/t
+ odb/blob/main/lovecraft/necronomicon-2026/README.md#fri-32
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-32
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-33@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 The Horror and Weird Fiction of Ray Bradbury
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:From Dark Carnival to Something Wicked This Way Comes\, paneli
+ sts discuss how Bradbury could go from whimsical elsewhere to cruel and u
+ nsettling in his horror\, and how his vision compares to cosmic horror au
+ thors. Panelists: Jason A. Wyckoff (Moderator)\, Maurice Broaddus\, Jeffr
+ ey Ford\, T.E. Grau\, Thomas Olivieri. Full listing: https://github.com/t
+ odb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-33
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-33
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-34@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 The Pale Song of the Butterfly Collector: Nabokov as Weird Fi
+ ction
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Nabokov is famous for Lolita and Pale Fire — but is his work
+  weird? Panelists describe how\, beneath the surface\, it's pervaded with
+  hints of the otherworldly and strange. Panelists: John WM Thompson (Mode
+ rator)\, Jeff VanderMeer\, Alison Lanier\, Sean Moreland\, Derek Austin J
+ ohnson. Full listing: https://github.com/todb/todb/blob/main/lovecraft/ne
+ cronomicon-2026/README.md#fri-34
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-34
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-35@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 Let Me Tell You About the Very Alien: They Are Different from
+  You and Me
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Weird fiction is filled with entities fundamentally unlike hum
+ ans in how they think\, feel\, and perceive. Panelists reveal ways to bri
+ ng alien psychology and motivations to life. Panelists: Sarah T Walker (M
+ oderator)\, Linda D. Addison\, Phil Gelatt\, Fred Van Lente\, Rick Claypo
+ ol\, Alexander Dickow. Full listing: https://github.com/todb/todb/blob/ma
+ in/lovecraft/necronomicon-2026/README.md#fri-35
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-35
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-36@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Chesya Burke\, Trisha J. Wooldridge\, Douglas Wynn
+ e\, and Mathilda Zeller. Full listing: https://github.com/todb/todb/blob/
+ main/lovecraft/necronomicon-2026/README.md#fri-36
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-36
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-37@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T180000Z
+DTEND:20260814T193000Z
+SUMMARY:🔵 WORKSHOP: Preserving Your Papers for Archival Collection
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Practical information for authors and creators on the legal\, 
+ logistical\, and preservation aspects of donating their papers to an arch
+ ival repository\, with a demonstration of proper storage materials. Condu
+ cted by certified archivist Jess Tucker. Limited to 30 participants. Full
+  listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2
+ 026/README.md#fri-37
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-37
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-38@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T181500Z
+DTEND:20260814T194500Z
+SUMMARY:🟠 Short Films Block 2
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Six international weird/cosmic horror shorts: "Dormant" (Russi
+ a)\, reality fractures as something ancient watches from beyond the Wall 
+ of Sleep\; "Missing Parts" (Hungary)\, a warrior flees a ritual into a fo
+ rgotten world below\; "Habituation" (Sweden)\, a couple travels through a
+  country struck by strange weather\; "Flush" (France)\, abominable plumbi
+ ng and monstrous deaths beset a building\; "Pigmentosa" (US)\, a terminal
+  patient infiltrates a doctor's house to steal a cure\; "The Damned Thing
+ " (US)\, a coroner's inquest reveals an enigmatic creature. Encores Sunda
+ y 3:30p. Full listing: https://github.com/todb/todb/blob/main/lovecraft/n
+ ecronomicon-2026/README.md#fri-38
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-38
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-39@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🟣 Armitage Session 3: H.P. Lovecraft and the Literary Tradition
+ s of the Gothic\, Romantic\, and Decadent Eras
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Daniel J. Holmes. Papers: Da
+ le Allen Crowley\, "Gothic Echoes\, Spectral Narratives\, and Daemonic Ra
+ ts: 'Rats in the Walls' as Mimesis for Walpole's The Castle of Otranto"\;
+  Perry Harrison\, "H.P. Lovecraft and Mediaeval Literature"\; Eric Steinh
+ art\, "Liberation and Transcendence in Lovecraft's Fiction"\; Rosie Sentm
+ an\, "Degeneration and Decadence in the Dragon's Court: How Fin-de-Siècl
+ e Paris' Gay Cruising Scene Gave The King in Yellow's Play its Cognitivel
+ y Poisonous Power." Full listing: https://github.com/todb/todb/blob/main/
+ lovecraft/necronomicon-2026/README.md#fri-39
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-39
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-40@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 The Influence of Charles Fort on Mythos Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Charles Fort (1874–1932) was among the first to study anomal
+ ous phenomena systematically. Did his publications create audiences hungr
+ y for weird fiction\, and can we still feel his influence a century on? P
+ anelists: Will Murray (Moderator)\, Edward Guimont\, Gabriel Mesa\, Eric 
+ Williams\, Justin Woodman. Full listing: https://github.com/todb/todb/blo
+ b/main/lovecraft/necronomicon-2026/README.md#fri-40
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-40
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-41@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 Representations of the Colonial New England Witch in Weird Fi
+ lm
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:From Mather's The Invisible World to Eggers' The Witch\, witch
+  portrayals have ranged from ultimate civic evil to social criticism to "
+ good for her" revolution. Panelists: Christa Carmen (Moderator)\, Alan Tr
+ omp\, VJ Stonecraft\, Alyssa Alessi\, Joseph Dwyer. Full listing: https:/
+ /github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri
+ -41
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-41
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-42@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 Willis Conover and Lovecraft at Last: Fifty Years Later
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Best known as a jazz impresario and co-founder of the Newport 
+ Jazz Festival\, Willis Conover was also a teenage correspondent of Lovecr
+ aft's. His book Lovecraft at Last turns fifty this year — what does it 
+ tell us about both men\, with newly uncovered archival material? Panelist
+ s: Jon Black (Moderator)\, Peter Cannon\, Jess Tucker. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ fri-42
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-42
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-43@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 Japanese Horror Manga Legends
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:You probably know Junji Ito\, but do you know Shigeru Mizuki\,
+  Kazuo Umezz\, or Daijiro Morohoshi? Manga artist Gou Tanabe\, editor Hay
+ ato Shimizu\, and translator Zack Davisson discuss horror manga's origins
+ \, influences\, and global impact. Panelists: K. H. Vaughan (Moderator)\,
+  Zach Davisson\, Hayato Shimizu\, Gou Tanabe. Full listing: https://githu
+ b.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-43
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-43
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-44@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 "I Can't Go On." The Horror of Existential Hopelessness
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Panelists examine the use and function of existential hopeless
+ ness and despair in the Weird — how authors and filmmakers confront thi
+ s core challenge of existence. Panelists: Despina Durand (Moderator)\, Mi
+ ke Allen\, Michael Cisco\, Jonas Kyratzes\, Jon Padgett. Full listing: ht
+ tps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.m
+ d#fri-44
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-44
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-45@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 Gaming Industry Meetup
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:A dedicated space for game industry professionals to socialize
+  and network — aimed especially at solo or first-time attendees looking
+  to connect and make dinner plans. Full listing: https://github.com/todb/
+ todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-45
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-45
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-46@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T210000Z
+SUMMARY:🔵 Poetry Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Linda D. Addison\, Katherine Kerestman\, Sumiko Sa
+ ulson\, and Evan Spreen. Full listing: https://github.com/todb/todb/blob/
+ main/lovecraft/necronomicon-2026/README.md#fri-46
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-46
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-47@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T193000Z
+DTEND:20260814T221500Z
+SUMMARY:🟢 Walking Tour (Rory Raven)
+LOCATION:Check the convention's Walking Tour page for the current meet-up 
+ spot
+DESCRIPTION:A guided walking tour of Lovecraft-related sites around Provid
+ ence\, led by Rory Raven. Requires a separate $15 ticket\; meeting point 
+ and details are on the convention's Walking Tour page. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ fri-47
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-47
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-48@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T200000Z
+DTEND:20260814T213000Z
+SUMMARY:🟠 Short Films Block 3
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Four shorts: "Amygdala" (US)\, an infected nurse runs for help
+  while uncovering the madness around her\; "Grýlu Sker" (US)\, a shipwre
+ cked explorer fights for survival off the coast of Iceland\; "Favela Amar
+ ela" (Brazil)\, a night-shift worker uncovers rituals devoted to the King
+  in Yellow\; "Feed The Dark" (US)\, a snowbound ski patroller is stalked 
+ by a ravenous demon. Encores Saturday 12:30p. Full listing: https://githu
+ b.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-48
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-48
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-49@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T200000Z
+DTEND:20260814T213000Z
+SUMMARY:🟢 Dark Providence Live Audio Drama
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A live performance of the 12-episode audio drama "Dark Provide
+ nce." Disgraced New York journalist Gray Sheridan returns to Providence w
+ hen a macabre ritual murder pulls him into partnership with a local psych
+ ic and an occult society bent on awakening a supernatural force. Performe
+ d by original cast including Reg Rogers (Broadway\, The Americans) and Zu
+ zanna Szadkowski (Gossip Girl\, The Knick). Repeats Saturday 6:00p. Full 
+ listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-20
+ 26/README.md#fri-49
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-49
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-50@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T210000Z
+DTEND:20260814T223000Z
+SUMMARY:🔵 The Weird Within: Parasites and Parasitism
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Tapeworms\, flukes\, ticks\, cuckoos\, cordyceps — organisms
+  that steal life and manipulate behavior are a powerful source of psychol
+ ogical and bodily terror. Panelists: Ann VanderMeer (Moderator)\, Matthew
+  Carpenter\, Kristin Dearborn\, Nicholas Kaufmann\, Victoria Nations\, St
+ ephanie M. Wytovich. Full listing: https://github.com/todb/todb/blob/main
+ /lovecraft/necronomicon-2026/README.md#fri-50
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-50
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-51@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T210000Z
+DTEND:20260814T223000Z
+SUMMARY:🔵 Designing The Weird: Collaborative Design in Props\, Artefact
+ s\, and Special Edition Books
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Props\, books\, sets\, and game components require input from 
+ multiple people with different perspectives and skillsets. Panelists disc
+ uss their work and how collaborative design produces a whole greater than
+  the sum of its parts. Panelists: Andrew Leman (Moderator)\, Ivan Carić\
+ , Shanna Germain\, Liv Rainey-Smith\, Tonnvane Wiswell. Full listing: htt
+ ps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md
+ #fri-51
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-51
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-52@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T210000Z
+DTEND:20260814T223000Z
+SUMMARY:🔵 The Coldest Fear: Arctic and Antarctic Horrors
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:From Frankenstein's frozen climax to At the Mountains of Madne
+ ss and True Detective: Night Country\, panelists discuss why the Arctic a
+ nd Antarctic are such persistent and effective settings for horror. Panel
+ ists: Leslie S. Klinger (Moderator)\, Madeline Newbery\, Douglas E Winter
+ \, Mathilda Zeller. Full listing: https://github.com/todb/todb/blob/main/
+ lovecraft/necronomicon-2026/README.md#fri-52
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-52
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-53@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T210000Z
+DTEND:20260814T223000Z
+SUMMARY:🔵 Guests of Honor Panel
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Meet the 2026 Guests of Honor: Linda D. Addison (Poet Laureate
+ )\, Chesya Burke\, Phillip Gelatt\, Badger McInnes\, Jon Padgett\, Gou Ta
+ nabe\, and Jeff VanderMeer. Moderator: s. j. bagley. Full listing: https:
+ //github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fr
+ i-53
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-53
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-54@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T210000Z
+DTEND:20260814T223000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by David Boop\, Jeffrey Ford\, Carrie-Edmund Laben\, 
+ and Aaron Worth. Full listing: https://github.com/todb/todb/blob/main/lov
+ ecraft/necronomicon-2026/README.md#fri-54
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-54
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-55@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T223000Z
+DTEND:20260814T230000Z
+SUMMARY:🔵 The Weird on a Moderately Large Color Screen!
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Surviving panelists from 2024's "Weird on a Small Color Screen
+ " return to continue their discussion of weird television shows from the 
+ twenty-aughts. Panelists: Jacy Morris (Moderator)\, Heather Buckley\, F. 
+ Brett Cox\, John Foster\, Nicholas Kaufmann. Full listing: https://github
+ .com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-55
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-55
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-56@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T223000Z
+DTEND:20260814T230000Z
+SUMMARY:🔵 Atlas of Deep Ones Publication Launch Event
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Celebrate the publication of Atlas of Deep Ones\, an anthology
+  of poetry and prose devoted to the Deep Ones of the Cthulhu Mythos\, edi
+ ted by Elizabeth Davis and Gevera Bert Piedmont. Readings by Andy Martin\
+ , Bert Piedmont\, Jackson Kuhl\, John Opalenik\, Mark DiStefano\, Stephen
+  Gousie\, and Theo Macgilivray. Full listing: https://github.com/todb/tod
+ b/blob/main/lovecraft/necronomicon-2026/README.md#fri-56
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-56
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-57@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T230000Z
+DTEND:20260815T010000Z
+SUMMARY:🟢 Guest Reception
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:A private reception for Guests of Honor\, Guests\, and Golden 
+ Key holders\, with hors d'oeuvres\, a cash bar\, and views of Providence 
+ — including presentation of the Robert Bloch and Joe Pulver (The bEasti
+ e!) Awards. Full listing: https://github.com/todb/todb/blob/main/lovecraf
+ t/necronomicon-2026/README.md#fri-57
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-57
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-58@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T230000Z
+DTEND:20260815T013000Z
+SUMMARY:🟠 They Remain (2018)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Screening with a Q&A featuring Writer/Director Guest of Honor 
+ Philip Gelatt. Two scientists with a romantic history investigate unnatur
+ al animal behavior at the site of a former cult compound\; based on Laird
+  Barron's short story "30." Full listing: https://github.com/todb/todb/bl
+ ob/main/lovecraft/necronomicon-2026/README.md#fri-58
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-58
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-59@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T230000Z
+DTEND:20260814T234500Z
+SUMMARY:🟢 Séance Lecture and Demonstration
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Award-winning performance team Judas and Magnolia lead a lectu
+ re and séance exploring the history of communicating with the dead\, fro
+ m medieval necromancy to Spiritualism\, before an audience-participatory 
+ theatrical encounter. Repeats Sunday noon. Full listing: https://github.c
+ om/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-59
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-59
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-60@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260814T234600Z
+DTEND:20260815T020000Z
+SUMMARY:🟢 WaterFire Providence
+LOCATION:Waterplace Park\, Providence\, RI
+DESCRIPTION:Providence's famous public art installation of bonfires lit al
+ ong the city's riverway at sunset. This night features a partial lighting
+  around the central basin near Waterplace Park\, just a couple of blocks 
+ from the convention hub — a popular diversion before heading to the Eld
+ ritch Ball. Free and open to the public. Full listing: https://github.com
+ /todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#fri-60
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-60
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-61@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T000000Z
+DTEND:20260815T013000Z
+SUMMARY:🟢 HPLHS's Dark Adventure Radio Theatre: "The Temple"
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The H.P. Lovecraft Historical Society presents a staged perfor
+ mance with live accompaniment and audience interaction. As German U-boats
+  prowl the North Atlantic during WWI\, a shipwrecked man tells a disturbi
+ ng tale of what he experienced aboard a German submarine. Featuring John 
+ Softcheck and Liz Stanton\, with live accompaniment by Gary Grundei. Full
+  listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2
+ 026/README.md#fri-61
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-61
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-62@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T010000Z
+DTEND:20260815T020000Z
+SUMMARY:🟢 The Outer Dark Reception Party: Next Wave of the Weird — Re
+ adings from Rising Authors
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Immediately following the Guest Reception but open to all atte
+ ndees\, this gathering organized by The Outer Dark podcast features mingl
+ ing and readings by up-and-coming authors representing the future of Weir
+ d fiction. Readers: Prema Arasu\, Ari Mnemonic\, Victoria Nations\, Milli
+ e Price\, Andromeda Ruins\, and Sarah Walker\; hosted by Anya Martin. Ful
+ l listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-
+ 2026/README.md#fri-62
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-62
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-63@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T010000Z
+DTEND:20260815T040000Z
+SUMMARY:🟢 Eldritch Ball: Nyarlathotep\, the Crawling Chaos ($)
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The return of the Eldritch Ball\, themed around Nyarlathotep 
+ — a fancy-dress\, costume\, masquerade\, semi-formal celebration capped
+  at 300 attendees. Convention pass holders: $40 advance / $35 at the door
+  (includes two drink tickets\, 21+ ID required)\; limited general public 
+ tickets: $35 advance / $40 at the door. Golden Key holders and Guests of 
+ Honor receive passes. Full listing: https://github.com/todb/todb/blob/mai
+ n/lovecraft/necronomicon-2026/README.md#fri-63
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-63
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-64@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:🟠 Late Night Lovecraft featuring Frogman Returns
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:The convention's zany late-night tradition of gooey\, slightly
+  adult\, insanity-inducing short films\, capped by the bonkers sequel to 
+ the cult classic "Frogman." Shorts: "Tasty Encounters" (Austria)\, a hung
+ ry man orders a pizza that seems out of this world\; "The Candle" (US)\, 
+ a "have your cake...and it eats you" tale\; "Trevor Lies" (US)\, a bizarr
+ e tale of a boy and his puritanical family — followed by the feature "F
+ rogman Returns" (US)\, in which Frogman is back and brought friends. Full
+  listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2
+ 026/README.md#fri-64
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#fri-64
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-01@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T120000Z
+DTEND:20260815T210000Z
+SUMMARY:🟢 Convention Registration
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Attendees pick up their convention badges at the registration 
+ table on the second floor landing of the Graduate Hotel. Full listing: ht
+ tps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.m
+ d#sat-01
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-01
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-02@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T120000Z
+DTEND:20260815T133000Z
+SUMMARY:🔵 "Line My Eyes and Call Me Pretty": Sublimation of the Feminin
+ e through the Monstrous in Contemporary Horror Literature
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:"Monsters are the bedtime stories the patriarchy tells itself.
+ " Panelists discuss how the "monster" is used to sublimate or "other" the
+  feminine in contemporary horror\, and how effective women authors are at
+  reclaiming agency by co-opting monstrosity. Panelists: Anya Martin (Mode
+ rator)\, Nadia Bulkin\, Lauren Elise (L. E.) Daniels\, Kristin Dearborn\,
+  Jess Lewis. Full listing: https://github.com/todb/todb/blob/main/lovecra
+ ft/necronomicon-2026/README.md#sat-02
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-02
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-03@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T120000Z
+DTEND:20260815T133000Z
+SUMMARY:🔵 Robert Hayward Barlow: A Life
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:R H Barlow (1918–1951) was more than executor of Lovecraft's
+  literary estate — anthropologist\, poet\, publisher\, and sculptor\, w
+ ith over one hundred academic publications. Panelists consider his extrao
+ rdinary life and legacy. Panelists: Despina Durand (Moderator)\, Peter Ca
+ nnon\, Matthew Cheney\, Tim Lonegan\, Ryan Page. Full listing: https://gi
+ thub.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-03
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-03
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-04@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T120000Z
+DTEND:20260815T133000Z
+SUMMARY:🔵 The Epistolary Form in Weird Fiction
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Found journals and letters\, diaries and ephemera — from Fra
+ nkenstein and Dracula to The Call of Cthulhu and House of Leaves\, episto
+ lary fiction remains vital to horror. Panelists: Jason A. Wyckoff (Modera
+ tor)\, Alison Lanier\, Paula D. Ashe\, Joshua Rex\, Kevin Scott Joiner. F
+ ull listing: https://github.com/todb/todb/blob/main/lovecraft/necronomico
+ n-2026/README.md#sat-04
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-04
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-05@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T120000Z
+DTEND:20260815T133000Z
+SUMMARY:🔵 A Century of Cthulhu: The Greatest Great Old One
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The Call of Cthulhu was written in the summer of 1926\, right 
+ here in Providence. What was it about Cthulhu that captured imaginations 
+ for a hundred years and became broadly understood even outside fandom? Pa
+ nelists: Kenneth Hite (Moderator)\, Prema Arasu\, Timothy Burall\, Leslie
+  S. Klinger\, Will Murray. Full listing: https://github.com/todb/todb/blo
+ b/main/lovecraft/necronomicon-2026/README.md#sat-05
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-05
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-06@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T120000Z
+DTEND:20260815T133000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Jeremiah Cook\, Shanna Germain\, Derek Austin John
+ son\, and Thomas Olivieri. Full listing: https://github.com/todb/todb/blo
+ b/main/lovecraft/necronomicon-2026/README.md#sat-06
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-06
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-07@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🟣 Armitage Session 4: Shadow Over the Self — Uncanny Anatomy\
+ , Body Horror and Disability in Lovecraft's Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Carlos González. Papers: Ad
+ ia Reynolds\, "Hearing Horror: Disability Representation and Lovecraftian
+  Horror in the Fiction Podcast Malevolent"\; Benjamin Breyer\, "Cold\, Ci
+ rculation\, and Cosmic Affect: Bodily Experience and Sensory Language in 
+ Lovecraft's Fiction"\; Bradley Will\, "Rehabilitating Cthulhu and Decodif
+ ying Fishpeople"\; Warren Bingcang\, "Fishfolk and Kinsfolk: Trans Resona
+ nces in 'The Thing on the Doorstep' and Other Stories." Full listing: htt
+ ps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md
+ #sat-07
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-07
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-08@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 Drifting Down the River of Night's Dreaming: Karl Edward Wagn
+ er
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Wagner (1945–1994) is known for his Sword and Sorcery anti-h
+ ero Kane and contemporary horror tales drawing on his personal demons and
+  psychiatric training. Panelists discuss his influences and impact. Panel
+ ists: Stephen Mark Rainey (Moderator)\, F. Brett Cox\, John Langan\, Jord
+ an Douglas Smith\, Douglas E Winter. Full listing: https://github.com/tod
+ b/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-08
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-08
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-09@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 Tales from the Crypt: EC Comics
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:EC Comics specialized in gruesome titles like Vault of Horror 
+ and Tales from the Crypt before being scapegoated for juvenile delinquenc
+ y in the 1950s. Panelists discuss EC's writers and artists\, its relation
+ ship to Pulp Era Weird\, and its enduring legacy. Panelists: David Quiroz
+  Jr (Moderator)\, Adam Golaski\, Derek Austin Johnson\, Nicholas Kaufmann
+ \, Sarah T Walker. Full listing: https://github.com/todb/todb/blob/main/l
+ ovecraft/necronomicon-2026/README.md#sat-09
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-09
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-10@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 36 Sonnets: The Fungi From Yuggoth
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Largely written between December 1929 and January 1930\, "Fung
+ i From Yuggoth" is one of Lovecraft's most well-known works. Panelists di
+ scuss its form\, sources\, themes\, publication history\, and influence. 
+ Panelists: Jason Ray Carney (Moderator)\, Prema Arasu\, Adam Bolivar\, Ri
+ chard Gerlach\, Justin Woodman. Full listing: https://github.com/todb/tod
+ b/blob/main/lovecraft/necronomicon-2026/README.md#sat-10
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-10
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-11@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 Horror Noir: the Contributions of Black Authors and Filmmaker
+ s in Horror and Weird Fiction
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Jordan Peele\, Tananarive Due\, Victor Lavalle\, and P. Djèl
+ í Clark use cosmic horror and weird fiction to explore Black identity an
+ d the legacy of US race relations. Panelists: Michelle Renee Lane (Modera
+ tor)\, Paula D. Ashe\, Gwen Callahan\, Nicole Givens Kurtz\, Jacy Morris\
+ , Zin E. Rocklyn. Full listing: https://github.com/todb/todb/blob/main/lo
+ vecraft/necronomicon-2026/README.md#sat-11
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-11
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-12@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 SPECIAL PRESENTATION: The Science of the Dreamlands
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Fred Lubnow and Steve Maschuck present a scientific investigat
+ ion into Lovecraft's Dreamlands — hypotheses on its position in a Multi
+ verse\, the physics of matter and energy there\, and the biology and ecol
+ ogy of its residents. Full listing: https://github.com/todb/todb/blob/mai
+ n/lovecraft/necronomicon-2026/README.md#sat-12
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-12
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-13@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Michael Cisco\, Rick Claypool\, Megan Milks\, and 
+ J. Scott. Full listing: https://github.com/todb/todb/blob/main/lovecraft/
+ necronomicon-2026/README.md#sat-13
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-13
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-14@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T133000Z
+DTEND:20260815T150000Z
+SUMMARY:🔵 WORKSHOP: Decolonizing the Canon — Teaching Genre Lit in th
+ e Classroom
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Worcester Academy's English Department Chair David Baillie lea
+ ds a discussion-based workshop on why spec-fic\, horror\, and the Weird d
+ eserve a place in the classroom curriculum\, alongside the canon. Full li
+ sting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026
+ /README.md#sat-14
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-14
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-15@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T140000Z
+DTEND:20260815T220000Z
+SUMMARY:🟢 Vendor Hall / Grand Emporium of the Weird
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Over 60 vendors selling weird-fiction books\, art\, oddities\,
+  and convention merchandise in the Omni's Narragansett Ballroom. Full lis
+ ting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/
+ README.md#sat-15
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-15
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-16@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🟣 Armitage Session 5: Filming the Unnameable — Adapting Cosmi
+ c Horror for the Screen
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Dale Allen Crowley. Papers: 
+ Sean Lovitt\, "The Mooncussers of Antonio Bay: Weirding John Carpenter's 
+ The Fog"\; Seán Martin\, "Uncanny Wallops and Weirdly Perfect Embodiment
+ s: Archive\, Memory and the Self in the First Lovecraft Documentary"\; Ta
+ ylor Province\, "Lovecraft in Louisiana: The Intersection of Cosmic Horro
+ r and Detective Fiction in True Detective." Full listing: https://github.
+ com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-16
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-16
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-17@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 Trans and Nonbinary Perspectives in Weird Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Trans\, nonbinary\, and genderqueer people have long been smal
+ l-w "weird" to the cis world. Panelists discuss what a new wave of both v
+ isibility and hostility means for the field\, and how trans artists and w
+ riters have responded. Panelists: Trisha J. Wooldridge (Moderator)\, Lari
+ ssa Glasser\, Carrie-Edmund Laben\, Megan Milks\, Zin E. Rocklyn. Full li
+ sting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026
+ /README.md#sat-17
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-17
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-18@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 Nothing is True\, Everything is Permitted: William S. Burroug
+ hs and Weird Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Beat Godfather Burroughs (1914–1997) was steeped in pulp-era
+  weird fiction and studied under Barlow in Mexico. Panelists discuss the 
+ weird influences and long surreal shadow of Burroughs. Panelists: Cody Go
+ odfellow (Moderator)\, Adam Bolivar\, Michael Cisco\, T.E. Grau\, Allen B
+ . Ruch. Full listing: https://github.com/todb/todb/blob/main/lovecraft/ne
+ cronomicon-2026/README.md#sat-18
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-18
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-19@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 Just Enough: Descriptive Narration in Fiction and Gaming
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:What is obvious to the author or GM isn't obvious to the reade
+ r or player. Panelists discuss how to hide important details in plain sig
+ ht without leading players by the nose. Panelists: Sean Branney (Moderato
+ r)\, Ivan Carić\, Shanna Germain\, Jonas Kyratzes\, Laura Langrish. Full
+  listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2
+ 026/README.md#sat-19
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-19
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-20@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 Representation of Ghosts in Culture and Literature: Taxonomy\
+ , Motivations\, and Purpose
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:From classical antiquity's chorus of the dead to Victorian spi
+ ritualism's sentimental ghosts and modern horror's vengeful spirits\, pan
+ elists discuss ghosts' evolving meaning and its relation to cultural tren
+ ds. Panelists: Robert Levy (Moderator)\, Nadia Bulkin\, Chesya Burke\, Li
+ v Rainey-Smith\, Sonya Taaffe\, Stephanie M. Wytovich. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ sat-20
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-20
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-21@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 SPECIAL PRESENTATION: "Mars Needs Larry Buchanan!"
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Texas "schlockmeister" Larry Buchanan churned out no-budget re
+ makes like "Zontar\, the Thing from Venus" and "Mars Needs Women\," later
+  mocked by MST3K. Alan Tromp reviews Buchanan's cultural impact\, with au
+ dience participation\, chanting\, and song. Full listing: https://github.
+ com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-21
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-21
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-22@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 BIPOC Meetup
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:A dedicated space for members of the BIPOC community to social
+ ize and network — aimed especially at solo or first-time attendees look
+ ing to connect and make dinner plans. Full listing: https://github.com/to
+ db/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-22
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-22
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-23@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T150000Z
+DTEND:20260815T163000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Theresa DeLucci\, Timothy J Jarvis\, Jon Padgett\,
+  and Jeffrey Thomas. Full listing: https://github.com/todb/todb/blob/main
+ /lovecraft/necronomicon-2026/README.md#sat-23
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-23
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-24@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T160000Z
+DTEND:20260815T163000Z
+SUMMARY:🟢 Witch Hunt Theater presents "CORPS(E)"
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:On their first day at corps(e) — the parent company overseei
+ ng the world's evil — new interns discover their onboarding packets ran
+ k them for something\, and that being an overachiever has consequences. I
+ mmersive\, site-specific horror theatre\, presented at NecronomiCon for t
+ he first time. Repeats at 1:00p. Full listing: https://github.com/todb/to
+ db/blob/main/lovecraft/necronomicon-2026/README.md#sat-24
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-24
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-25@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T160000Z
+DTEND:20260815T210000Z
+SUMMARY:🟢 Ars Necronomica: A Call into the Abyss (Art Exhibition)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:Continuing three-week group art exhibition featuring over 20 a
+ rtists working in weird and cosmic-horror-inspired art. Free and open to 
+ the public. Full listing: https://github.com/todb/todb/blob/main/lovecraf
+ t/necronomicon-2026/README.md#sat-25
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-25
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-26@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T163000Z
+DTEND:20260815T174500Z
+SUMMARY:🔵 Manifesting the Indescribable: A Hybrid Performance and Artis
+ t Q&A
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Inspired by "Pickman's Model\," a multimedia performance of or
+ iginal dance\, music\, and animation presented by frequent Eldritch Ball 
+ performer Calixta Starr\, artist Sheryl Westleigh of Noadi's Art Original
+  Creations\, and composer Eric Wrazen\, followed by a Q&A hosted by James
+  Horner. Attendees are invited to bring their lunch. Full listing: https:
+ //github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sa
+ t-26
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-26
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-27@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T170000Z
+DTEND:20260815T173000Z
+SUMMARY:🟢 "CORPS(E)" (repeat)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A repeat performance of the immersive\, site-specific horror t
+ heatre piece about new interns at a company overseeing the world's evil\,
+  discovering their onboarding profiles rank them for something ominous. F
+ ull listing: https://github.com/todb/todb/blob/main/lovecraft/necronomico
+ n-2026/README.md#sat-27
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-27
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-28@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T190000Z
+SUMMARY:🟢 Arcane Americana: Two Tales of Folk Horror by Manly Wade Well
+ man
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:Storyteller Lynne Cullen and musician Kurt Kish perform two mu
+ sical tales of folk horror featuring John the Balladeer\, Wellman's lacon
+ ic hero who wanders Appalachia with a silver-stringed guitar to fight evi
+ l: "The Desrick on Yandro" and "Vandy\, Vandy\," adapted with permission.
+  Full listing: https://github.com/todb/todb/blob/main/lovecraft/necronomi
+ con-2026/README.md#sat-28
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-28
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-29@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🟣 Invited Academic Speakers 2
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Madeline Newbery\, "Speculative Fiction Onboard Polar Expediti
+ ons\," on the weird and speculative fiction actually read and produced on
+ board early 20th century polar expeditions. Bill Goldberg\, "The Hidden S
+ ecrets of Cults\," on the psychodynamics of cult membership and how it ap
+ plies to coercive persuasion more broadly. Full listing: https://github.c
+ om/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-29
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-29
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-30@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 Bedeviled Blues and Haunted Hoedowns: African and European Or
+ igins of the Weird in American Dark and Horror Folk Music
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Focusing on African and European influences\, this discussion 
+ explores the roots of dark and horror folk music\, with a few panelists p
+ erforming brief musical pieces to illustrate the connections. Panelists: 
+ Kevin Scott Joiner (Moderator)\, F. Brett Cox\, Joshua Rex\, Alan Tromp\,
+  Douglas Wynne. Full listing: https://github.com/todb/todb/blob/main/love
+ craft/necronomicon-2026/README.md#sat-30
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-30
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-31@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 Revisiting Supernatural Horror in Literature
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Lovecraft's diligently researched essay on the state and origi
+ ns of the weird tale remains a classic of weird scholarship. Panelists di
+ scuss its sources\, revisions\, and impact through the history of weird s
+ cholarship up to today. Panelists: Matthew Cheney (Moderator)\, Michael C
+ isco\, Leslie S. Klinger\, Sean Moreland\, Aaron Worth. Full listing: htt
+ ps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md
+ #sat-31
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-31
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-32@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 The Weird Art and Literature of Nick Cave
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:From "Red Right Hand" to The Death of Bunny Munro\, Nick Cave'
+ s work as musician and writer explores strange\, surreal\, and undeniably
+  dark territories. Panelists: Allen B. Ruch (Moderator)\, Matthew M Bartl
+ ett\, Theresa DeLucci\, Richard Gerlach\, Ryan Page. Full listing: https:
+ //github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sa
+ t-32
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-32
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-33@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 Comedy from the Darkest Places: The Unbearable Lightness of N
+ ihilism
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The work of some of the bleakest\, most nihilistic weird write
+ rs is often downright hilarious. Panelists discuss the role of humor in t
+ he dark work of Ligotti\, Kafka\, and others. Panelists: Jeff VanderMeer 
+ (Moderator)\, Rick Claypool\, T.E. Grau\, Thomas Olivieri\, Jon Padgett. 
+ Full listing: https://github.com/todb/todb/blob/main/lovecraft/necronomic
+ on-2026/README.md#sat-33
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-33
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-34@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 SPECIAL PRESENTATION: Yūrei — The Japanese Ghost
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Black hair. White face. White kimono. Everyone knows what a y
+ ūrei looks like\, but few know why. Monster scholar and translator Zack 
+ Davisson\, author of Yūrei: The Japanese Ghost\, talks history and tells
+  some cool ghost stories. Full listing: https://github.com/todb/todb/blob
+ /main/lovecraft/necronomicon-2026/README.md#sat-34
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-34
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-35@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 Poetry Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Adam Bolivar\, Jamal Hodge\, Sonya Taaffe\, Meg Sm
+ ith\, and Stephanie M. Wytovich. Full listing: https://github.com/todb/to
+ db/blob/main/lovecraft/necronomicon-2026/README.md#sat-35
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-35
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-36@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T180000Z
+DTEND:20260815T193000Z
+SUMMARY:🔵 WORKSHOP: Conducting Archival Interviews/Oral Histories
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Practical instruction for conducting oral history interviews t
+ o document the lives and works of authors and creatives\, with a short de
+ monstration of best practices. Conducted by certified archivist Jess Tuck
+ er. Limited to 30 participants. Full listing: https://github.com/todb/tod
+ b/blob/main/lovecraft/necronomicon-2026/README.md#sat-36
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-36
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-37@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T183000Z
+DTEND:20260815T201500Z
+SUMMARY:🟠 The Cosmic Horror of Nigel Kneale: The Stone Tape (1972)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:An introduction and presentation preceding a screening of this
+  rare 1972 BBC TV movie. Nigel Kneale was responsible for some of the mos
+ t mind-bending cosmic horror ever produced for the BBC (including the "Qu
+ atermass" series)\, but this is presented as his most frighteningly Lovec
+ raftian work. Full listing: https://github.com/todb/todb/blob/main/lovecr
+ aft/necronomicon-2026/README.md#sat-37
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-37
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-38@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🟣 Armitage Session 6: Cosmic Horror and the Subconscious — Ex
+ ploring Lovecraft through Jung and the Occult
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Michael A. Torregrossa. Pape
+ rs: Carlos González\, "Drawing Dagon Down: Lovecraft's Presence in the C
+ ontemporary Occult"\; Peter Muise\, "Unwholesome Nocturnal Meetings: H.P.
+  Lovecraft\, Margaret Murray\, and the Witches' Sabbath"\; Kyle Gamache\,
+  "The Universal Syzygy: Freud and Jung in The Masks of Nyarlathotep"\; Ta
+ ylor Walker\, "The Dream Quest of Carl Jung: Synchronicity in Jung's Coll
+ ective Unconscious and Lovecraft's Dreamlands." Full listing: https://git
+ hub.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-38
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-38
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-39@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 Let Me Tell You of the Days of High Adventure: Exploring The 
+ Hyperborean Age
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:For writers like Robert Howard and Clark Ashton Smith\, Hyperb
+ orea was an ancient time lost to history but still echoing in contemporar
+ y culture. Panelists discuss the creation and use of "Hyperborean" settin
+ gs in the Pulp Era. Panelists: Eric Williams (Moderator)\, Zack Davisson\
+ , Luke Dodd\, Larissa Glasser\, Jackson Kuhl. Full listing: https://githu
+ b.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-39
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-39
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-40@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 The Call Of Cthulhu at 100: A Deep Dive into the Story that L
+ aunched the Mythos
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Heavy LitCrit time — panelists consider Lovecraft's signatur
+ e story on a textual level\, its influences and antecedents\, and its the
+ mes through the lenses of 1926 and 2026. Panelists: Edward Guimont (Moder
+ ator)\, Sean Branney\, Tim Lonegan\, David Quiroz Jr\, Fred Van Lente. Fu
+ ll listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon
+ -2026/README.md#sat-40
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-40
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-41@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 Roots of Weird Fiction in Romantic Literature
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Blake\, Byron\, Coleridge\, Dickinson\, the Brothers Grimm\, H
+ awthorne\, Hoffmann\, Poe\, and Shelley loom large in the origins of weir
+ d fiction. Panelists trace the influence of Romantic ideals into early 20
+ th century weird fiction. Panelists: Trisha J. Wooldridge (Moderator)\, J
+ ason Ray Carney\, Michael Cisco\, John Langan\, Matthew Spencer. Full lis
+ ting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/
+ README.md#sat-41
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-41
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-42@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 The Weird and Hip-hop
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:From Whodini's "Haunted House of Rock" to the horrorcore of Th
+ e Geto Boys and Three 6 Mafia\, hip-hop has crossed paths with the macabr
+ e for decades. Panelists: Michelle Rene Lane (Moderator)\, Errick Nunnall
+ y\, Ryan Page\, Millie Price\, Zin E. Rocklyn. Full listing: https://gith
+ ub.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-42
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-42
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-43@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 Bloody Weird: Splatterpunk on its Fortieth Anniversary
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:The term "splatterpunk" originated in 1986\, right here in Pro
+ vidence at the World Fantasy Convention. Forty bloody years later\, panel
+ ists consider the genre's impact and what it means to be splatterpunk tod
+ ay. Panelists: Victoria Dalpe (Moderator)\, Alyssa Alessi\, Paula D. Ashe
+ \, Cody Goodfellow\, Douglas E Winter. Full listing: https://github.com/t
+ odb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-43
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-43
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-44@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 LGBTQIA+ Meetup
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:A dedicated space for members of the LGBTQIA+ community to soc
+ ialize and network — aimed especially at solo or first-time attendees l
+ ooking to connect and make dinner plans. Full listing: https://github.com
+ /todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-44
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-44
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-45@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T193000Z
+DTEND:20260815T210000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Julie C. Day\, Adam Golaski\, Jacy Morris\, and St
+ ephen Mark Rainey. Full listing: https://github.com/todb/todb/blob/main/l
+ ovecraft/necronomicon-2026/README.md#sat-45
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-45
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-46@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T200000Z
+DTEND:20260815T210000Z
+SUMMARY:🟢 Cargo Out of Space
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A live performance presented as an episode of a fictional over
+ night radio show\, created by Jimmy Mac (formerly of SiriusXM's Road Dog 
+ Trucking) and actor Justin Welborn (Justified\, Final Destination)\, with
+  producer/performer Adriana Luciano — blending Lovecraftian horror with
+  old-time radio drama. Full listing: https://github.com/todb/todb/blob/ma
+ in/lovecraft/necronomicon-2026/README.md#sat-46
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-46
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-47@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T203000Z
+DTEND:20260815T223000Z
+SUMMARY:🟠 The Spine of Night (2021)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Screening with a Q&A featuring Philip Gelatt. An animated dark
+  fantasy featuring the voices of Lucy Lawless\, Richard E. Grant\, and Pa
+ tton Oswalt\, following heroes from different eras and cultures battling 
+ a malevolent cosmic force. Full listing: https://github.com/todb/todb/blo
+ b/main/lovecraft/necronomicon-2026/README.md#sat-47
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-47
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-48@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🟣 Armitage Session 7: Mythos\, Misinformation and Conspiracy 
+ — Analysing Cosmic Horror through the Lens of Propaganda
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Elena Tchougounova-Paulson. 
+ Papers: Angela Reitz\, "A Comparative Analysis of the Cthulhu Mythos and 
+ its Connection to Antisemitic Propaganda"\; Edward Guimont\, "Lovecraft a
+ nd the UFO"\; Melissa M. Stewart\, "Lovecraft and Eugenics: for HPL\, It 
+ was Personal"\; Rolf Maurer\, "When Cognitive Dissonance Fails: Confronti
+ ng the Inextricability of Lovecraft's Imagination and Xenophobia." Full l
+ isting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-202
+ 6/README.md#sat-48
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-48
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-49@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 This Little Meeple Went to Market: Bringing a Game to Market
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:You've developed a game idea and play-tested it to death — n
+ ow what? Industry professionals discuss pitching\, contacting artists and
+  publishers\, and self-publishing vs. working with an established company
+ . Panelists: Robby Howell (Moderator)\, Paul Fricker\, Kenneth Hite\, Mik
+ e Mason\, VJ Stonecraft. Full listing: https://github.com/todb/todb/blob/
+ main/lovecraft/necronomicon-2026/README.md#sat-49
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-49
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-50@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 Cosmic Horror and Gaze: The Terror and Power of Seeing and Be
+ ing Seen
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Panelists discuss cosmic horror through Gaze Theory — what s
+ ees and what is seen in the work of HPL and cosmic horror\, and the conse
+ quences of perception and being perceived in the Mythos. Panelists: Heath
+ er Miller (Moderator)\, Paula D. Ashe\, Chesya Burke\, Fred Lubnow\, Jeff
+  VanderMeer. Full listing: https://github.com/todb/todb/blob/main/lovecra
+ ft/necronomicon-2026/README.md#sat-50
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-50
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-51@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 White Rabbits and Purple Haze: The Influence of the Psychedel
+ ic Era on Weird Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Lovecraft and weird fiction surged in popularity during the ps
+ ychedelic sixties\, as counterculture embraced pulp-era stories of banned
+  books and mind-altering substances. Panelists discuss how psychedelia in
+ fused weird fiction of the period. Panelists: John WM Thompson (Moderator
+ )\, Cody Goodfellow\, T.E. Grau\, Carrie-Edmund Laben\, Douglas Wynne. Fu
+ ll listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon
+ -2026/README.md#sat-51
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-51
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-52@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 Adapting Lovecraft for Manga
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Mangaka Gou Tanabe\, editor Hayato Shimizu\, and translator Za
+ ck Davisson discuss adapting HPL's most famous works to manga — The Cal
+ l of Cthulhu\, At The Mountains of Madness\, The Colour Out of Space\, an
+ d more. Panelists: K. H. Vaughan (Moderator)\, Zach Davisson\, Hayato Shi
+ mizu\, Gou Tanabe. Full listing: https://github.com/todb/todb/blob/main/l
+ ovecraft/necronomicon-2026/README.md#sat-52
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-52
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-53@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 Archives: Preserving Collective Memory
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Professional archivists discuss how to assess\, collect\, orga
+ nize\, and preserve letters\, papers\, rare books\, and electronic record
+ s for posterity. Panelists: Jon Black (Moderator)\, David Boop\, Jeremy B
+ rett\, Thomas Olivieri\, Jess Tucker. Full listing: https://github.com/to
+ db/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-53
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-53
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-54@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 WORKSHOP: Skills and Tools for Podcast and Audiobook Narration
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:A workshop to strengthen vocal skills around the gothic\, weir
+ d\, uncanny\, and dark fiction\, taught by award-winning performers Linda
+  Jones and Jon Padgett. Limited to 15 participants. Full listing: https:/
+ /github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat
+ -54
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-54
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-55@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T210000Z
+DTEND:20260815T223000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Christa Carmen\, Kristin Dearborn\, Gillian Daniel
+ s\, and T. L. Wiswell. Full listing: https://github.com/todb/todb/blob/ma
+ in/lovecraft/necronomicon-2026/README.md#sat-55
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-55
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-56@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T220000Z
+DTEND:20260815T233000Z
+SUMMARY:🟢 Dark Providence Live Audio Drama (repeat)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A repeat of Friday's live performance of the audio drama "Dark
+  Providence\," featuring original cast members Reg Rogers (Broadway\, The
+  Americans) and Zuzanna Szadkowski (Gossip Girl\, The Knick). Full listin
+ g: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-56
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-56
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-57@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T223000Z
+DTEND:20260816T000000Z
+SUMMARY:🔵 The Collectable Lovecraft
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Lovecraftiana has been produced in a dizzying array of edition
+ s\, ephemera\, and memorabilia. Panelists explore the trials and tribulat
+ ions of the Lovecraft completionist and give advice on finding\, appraisi
+ ng\, and researching collectibles. Panelists: Tim Lonegan (Moderator)\, S
+ ean Branney\, Matthew Carpenter\, Peter Rawlik\, Darrell Schweitzer. Full
+  listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2
+ 026/README.md#sat-57
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-57
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-58@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T223000Z
+DTEND:20260816T000000Z
+SUMMARY:🔵 WORKSHOP: Yes\, and... Improving GM Skills Using Improv Comed
+ y Techniques
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Robby Howell\, creator of the TTRPG ENCLAVE\, leads a workshop
+  on improvisation as a game host — thinking on your feet\, quick group 
+ activities\, and cutting down prep time. Limited to 12 participants (spec
+ tators welcome). Full listing: https://github.com/todb/todb/blob/main/lov
+ ecraft/necronomicon-2026/README.md#sat-58
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-58
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-59@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T223000Z
+DTEND:20260816T000000Z
+SUMMARY:🔵 Wicked Westerns Kickstarter Launch Party
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Celebrate the Kickstarter launch of Wicked Westerns\, an antho
+ logy of poetry and prose from the New England Horror Writers\, edited by 
+ Trisha J. Wooldridge and David Boop\, with author readings by Chad Anctil
+ \, Matt Bechtel\, JP Behrens\, Michael Burke\, and Christa Carmen. Full l
+ isting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-202
+ 6/README.md#sat-59
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-59
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-60@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T224500Z
+DTEND:20260816T001500Z
+SUMMARY:🟠 Short Films Block 1 (encore)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Cosmic horror and weird shorts from around the world: "Creatur
+ e of the Deep" (US)\, a college student's family brings her to meet a rec
+ lusive uncle\; "Furka" (Russia/Switzerland)\, something rises from the ic
+ e after a glacier's signal vanishes\; "The Hound" (Serbia)\, grave robber
+ s steal an amulet from an ancient tomb\; "Superconscious" (US)\, a clairv
+ oyant joins the 1972 Remote Viewing Program\; "Sleepwalker" (Australia)\,
+  an artifact lets a man possess sleeping strangers. Full listing: https:/
+ /github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat
+ -60
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-60
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-61@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T230000Z
+DTEND:20260816T030000Z
+SUMMARY:🟢 NecronomiCon Party Under the Stars
+LOCATION:49 Peck Street\, Providence\, RI
+DESCRIPTION:A block-party concert featuring The Viennagram (local psych pu
+ nk)\, The Deep Ones (local horror surf rock)\, Hunchback (dark rock from 
+ Jersey)\, Orion (Providence electro-dance)\, and a special set by NIMF (a
+ mbient weirdness from Ireland). Beer\, cocktails\, and food provided by T
+ he Red Door and Narragansett Brewery. Free\, 21+ (or accompanied by paren
+ ts/guardians). Full listing: https://github.com/todb/todb/blob/main/lovec
+ raft/necronomicon-2026/README.md#sat-61
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-61
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-62@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260815T233000Z
+DTEND:20260816T010000Z
+SUMMARY:🟢 HPLHS's Dark Adventure Radio Theatre: "The Blood Red Sphinx"
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The H.P. Lovecraft Historical Society presents the live debut 
+ of a brand-new episode of Dark Adventure Radio Theatre. During the Great 
+ Depression\, a Los Angeles detective takes a case connected to a big-budg
+ et motion picture and the odd mystic behind it. Featuring John Softcheck\
+ , Liz Stanton\, Allison Rich\, and Rebecca Paiva\, with live accompanimen
+ t by Gary Grundei. Full listing: https://github.com/todb/todb/blob/main/l
+ ovecraft/necronomicon-2026/README.md#sat-62
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-62
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-63@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T000000Z
+DTEND:20260816T023000Z
+SUMMARY:🟢 Live Game! Call of Cthulhu: "If I Had a Hammer" with Mike Mas
+ on
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A one-night-only live game of Call of Cthulhu run by Mike Maso
+ n\, with audience participation welcome. Four intrepid investigators\, in
+ cluding Paul Fricker\, Matt Ryan\, and Brian Courtemanche\, experience th
+ e scenario "If I Had a Hammer!" Full listing: https://github.com/todb/tod
+ b/blob/main/lovecraft/necronomicon-2026/README.md#sat-63
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-63
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-64@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T003000Z
+DTEND:20260816T024500Z
+SUMMARY:🟠 Annihilation (2018)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Screening introduced by Guest of Honor Jeff VanderMeer. A biol
+ ogist joins a secret all-female expedition into "The Shimmer\," a mutatin
+ g\, quarantined environmental zone. Full listing: https://github.com/todb
+ /todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-64
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-64
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-65@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T010000Z
+DTEND:20260816T020000Z
+SUMMARY:🟢 Weird Poetry Open Mic
+LOCATION:186 Fountain Street\, Providence\, RI
+DESCRIPTION:NecronomiCon 2026 Poet Laureate Linda D. Addison organizes thi
+ s new addition to the convention — an open mic where attendees can read
+  their own poetry (5 minutes or less) or simply enjoy others' work\, with
+  beer and food. Full listing: https://github.com/todb/todb/blob/main/love
+ craft/necronomicon-2026/README.md#sat-65
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-65
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-66@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T013000Z
+DTEND:20260816T030000Z
+SUMMARY:🟢 Lovecraft's "The Nameless City" and Bram Stoker's "Gibbet Hil
+ l"
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Robert Lloyd Parry reads H.P. Lovecraft's "The Nameless City" 
+ and the recently rediscovered "Gibbet Hill" by Bram Stoker\, with live mu
+ sical accompaniment by Chris Bozzone. Full listing: https://github.com/to
+ db/todb/blob/main/lovecraft/necronomicon-2026/README.md#sat-66
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-66
+END:VEVENT
+BEGIN:VEVENT
+UID:sat-67@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T023000Z
+DTEND:20260816T043000Z
+SUMMARY:🟢 Lovecraftian/Weird Bar Trivia
+LOCATION:186 Fountain Street\, Providence\, RI
+DESCRIPTION:A NecronomiCon tradition hosted by author Pete Rawlik\, testin
+ g attendees' knowledge (or lack thereof) of weird literature\, movies\, t
+ elevision\, music\, and the people who make them\, with prizes (not good 
+ ones\, but prizes nonetheless). (End time approximate/estimated.) Full li
+ sting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026
+ /README.md#sat-67
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sat-67
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-01@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T120000Z
+DTEND:20260816T140000Z
+SUMMARY:🟢 Foraging Horrors: A NecronomiCon Mushroom Walk
+LOCATION:Blackstone Park\, Providence\, RI
+DESCRIPTION:Author and fungus enthusiast Rick Claypool\, with the Rhode Is
+ land Mycological Society\, leads a walking tour of fungus-rich Blackstone
+  Park. Attendees arrange their own travel to the park\; reserve a spot by
+  emailing rick@rickclaypool.org. Full listing: https://github.com/todb/to
+ db/blob/main/lovecraft/necronomicon-2026/README.md#sun-01
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-01
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-02@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T120000Z
+DTEND:20260816T133000Z
+SUMMARY:🟢 Cthulhu Prayer Breakfast
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:The One! The Only! The blasphemous and deeply silly Cthulhu Pr
+ ayer Breakfast returns — press your robes and dust off your hymnal for 
+ a rambunctious morning of fellowship\, comedy\, and song with Most Exalte
+ d Hierophants Cody Goodfellow and Scott Jones. Also\, there will be eggs.
+  A separately ticketed event via Eventbrite that typically sells out in a
+ dvance\; Golden Key and Silver Key members receive complimentary admissio
+ n. Full listing: https://github.com/todb/todb/blob/main/lovecraft/necrono
+ micon-2026/README.md#sun-02
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-02
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-03@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T120000Z
+DTEND:20260816T133000Z
+SUMMARY:🔵 The Birth of the Fantastique in German Literature: Adelbert v
+ on Chamisso (Peter Schlemihl)\, Achim von Arnim\, and E.T.A. Hoffmann
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Influenced by Romanticism\, a generation of German writers pio
+ neered a form prefiguring slipstream and magical realism\, later stamping
+  German Expressionist cinema. Panelists: Jon Black (Moderator)\, Michael 
+ Cisco\, Matthew Spencer\, Eric Williams. Full listing: https://github.com
+ /todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sun-03
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-03
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-04@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T120000Z
+DTEND:20260816T133000Z
+SUMMARY:🔵 Using Cthulhu in The Call of Cthulhu RPG
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Unlike some adversaries\, Cthulhu himself doesn't traditionall
+ y interest himself in mortal affairs — and his appearance is most likel
+ y to trigger a total party kill. Panelists discuss the uses and abuses of
+  the Great Old One in an effective campaign. Panelists: Mike Mason (Moder
+ ator)\, Paul Fricker\, Kenneth Hite\, Badger McInnes\, Christopher Smith-
+ Adair. Full listing: https://github.com/todb/todb/blob/main/lovecraft/nec
+ ronomicon-2026/README.md#sun-04
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-04
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-05@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T120000Z
+DTEND:20260816T133000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Mike Allen\, Pamela M. Durgin\, and Tony LaMalfa. 
+ Full listing: https://github.com/todb/todb/blob/main/lovecraft/necronomic
+ on-2026/README.md#sun-05
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-05
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-06@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T130000Z
+DTEND:20260816T190000Z
+SUMMARY:🟢 Convention Registration
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Attendees pick up their convention badges at the registration 
+ table on the second floor landing of the Graduate Hotel\, on the conventi
+ on's final day. Full listing: https://github.com/todb/todb/blob/main/love
+ craft/necronomicon-2026/README.md#sun-06
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-06
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-07@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🟣 Armitage Session 8: Eco-Horror and Cosmic Decay — Monstrous
+  Environments in Lovecraft's Works
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Byron J. Nakamura. Papers: F
+ red Lubnow\, "In the Absence of Light...An Assessment of Lovecraftian Non
+ -Photosynthetic Ecosystems"\; Daniel Zygiel-Clague\, "Climate of Cthulhu:
+  The Cosmic Horror of Environmental Disaster"\; Matthew Buffington (ft. Z
+ achary Griebenow)\, "Towards a classification of the HP Lovecraft creatur
+ e-universe"\; Prema Arasu\, "The Antipodean Weird in Lovecraft and Others
+ ." Full listing: https://github.com/todb/todb/blob/main/lovecraft/necrono
+ micon-2026/README.md#sun-07
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-07
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-08@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🔵 Humans Are Such Easy Prey: Forty Years of From Beyond
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Director Stuart Gordon's follow-up to Re-Animator has never ac
+ hieved the same recognition\, despite also taking wild swings at Lovecraf
+ t's original text. Panelists expound on this grisly\, gooey\, 40-years-ol
+ d film. Panelists: Fred Van Lente (Moderator)\, Victoria Dalpe\, Jason Le
+ Blanc\, David Quiroz Jr.\, Kayte Terry. Full listing: https://github.com/
+ todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sun-08
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-08
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-09@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🔵 Sheridan Le Fanu: Seeing Through a Glass Darkly
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Joseph Thomas Sheridan Le Fanu (Irish\, 1814–1873) was a mas
+ ter of atmosphere and dread whose Carmilla preceded and influenced Dracul
+ a. Panelists discuss his life\, work\, and enduring cultural impact. Pane
+ lists: Adam Golaski (Moderator)\, Michael Cisco\, Timothy J. Jarvis\, Rob
+ ert Lloyd Parry\, Aaron Worth. Full listing: https://github.com/todb/todb
+ /blob/main/lovecraft/necronomicon-2026/README.md#sun-09
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-09
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-10@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🔵 Representation and Function of Disease and Illness in the Wei
+ rd
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:From sleeping sickness in Eric Basso's "The Beak Doctor" to al
+ ien infection in Jeff VanderMeer's Southern Reach books\, panelists explo
+ re why writers keep returning to illness\, physical and psychological. Pa
+ nelists: VJ Stonecraft (Moderator)\, Matthew Carpenter\, Eric Schaller\, 
+ Ann VanderMeer\, K. H. Vaughan. Full listing: https://github.com/todb/tod
+ b/blob/main/lovecraft/necronomicon-2026/README.md#sun-10
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-10
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-11@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🔵 SPECIAL PRESENTATION: Hotrods and Horror
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:How "kustom kar kulture" and Frankenstein patchwork creatures 
+ collided in pop culture — nightmare jalopies\, "The Munsters\," Ed "Big
+  Daddy" Roth\, and monster hot rod model kits. Presented by Alan Tromp wi
+ th ghoulish audience participation and a singalong. Full listing: https:/
+ /github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sun
+ -11
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-11
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-12@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by David Baillie\, F. Brett Cox\, Nadia Bulkin\, and 
+ Errick Nunnally. Full listing: https://github.com/todb/todb/blob/main/lov
+ ecraft/necronomicon-2026/README.md#sun-12
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-12
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-13@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T133000Z
+DTEND:20260816T150000Z
+SUMMARY:🔵 WORKSHOP: Writing Weird Poetry
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Linda D. Addison\, the convention's Poet Laureate\, leads this
+  special workshop on approaches to creating wonderful weird poetry. Full 
+ listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-20
+ 26/README.md#sun-13
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-13
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-14@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T200000Z
+SUMMARY:🟢 Vendor Hall / Grand Emporium of the Weird
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Final day of the vendor hall\, with over 60 vendors selling we
+ ird-fiction books\, art\, oddities\, and convention merchandise. Shorter 
+ hours than Friday/Saturday. Full listing: https://github.com/todb/todb/bl
+ ob/main/lovecraft/necronomicon-2026/README.md#sun-14
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-14
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-15@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🟣 Armitage Session 9: Decoding Mythos — How Linguistics\, Com
+ ics\, and LLMs Reframe Cosmic Horror
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Heather Miller. Papers: Eric
+  LaFreniere\, "Lovecraft's Unspeakable Grammar: Moore's Excavation of the
+  Alien Holophrase in The Courtyard"\; Nathaniel Wallace\, "Eidolic Augmen
+ tation: Machine Generated Grimoires and Stage Plays"\; Michael A. Torregr
+ ossa\, "New England Legends in Comics"\; Timothy Jarvis\, "A Simple Obsti
+ nacy: Weird Fiction and Transgression." Full listing: https://github.com/
+ todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sun-15
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-15
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-16@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🔵 Mucho Mojo Storyteller: Joe R. Lansdale
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Texas-based author Joe R. Lansdale merges mysteries\, Westerns
+ \, and horror in unique\, surprising ways. Panelists examine his lengthy 
+ career and one-of-a-kind narrative voice. Panelists: Jon Black (Moderator
+ )\, Jeremy Brett\, Theresa DeLucci\, Derek Austin Johnson\, Alan Tromp. F
+ ull listing: https://github.com/todb/todb/blob/main/lovecraft/necronomico
+ n-2026/README.md#sun-16
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-16
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-17@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🔵 Collaborative Writing in Weird Fiction
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Writing partnerships can produce work distinct from that of so
+ lo collaborators. Panelists discuss advantages and disadvantages of writi
+ ng as a team\, and maintaining relationships when opinions differ. Paneli
+ sts: Peter Rawlik (Moderator)\, Matthew M Bartlett\, David Boop\, Laura L
+ angrish\, Jon Padgett. Full listing: https://github.com/todb/todb/blob/ma
+ in/lovecraft/necronomicon-2026/README.md#sun-17
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-17
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-18@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🔵 Redefining Cosmic Horror
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:As a genre\, cosmic horror has always been a little nebulous. 
+ How have conceptions of it changed\, and are the original definitions sti
+ ll relevant when cosmic indifference and existentialism are increasingly 
+ mainstream? Panelists: Paula D. Ashe\, Gwen Callahan\, Sean Moreland\, An
+ n VanderMeer. Full listing: https://github.com/todb/todb/blob/main/lovecr
+ aft/necronomicon-2026/README.md#sun-18
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-18
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-19@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🔵 Sources Over Innsmouth
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:An examination of the inspirations and influences behind The S
+ hadow Over Innsmouth\, considering real-world sources\, philosophical con
+ cerns\, and the art and literature Lovecraft drew on. Panelists: Leslie S
+ . Klinger (Moderator)\, Prema Arasu\, Kenneth Hite\, Tim Lonegan\, Donova
+ n Loucks. Full listing: https://github.com/todb/todb/blob/main/lovecraft/
+ necronomicon-2026/README.md#sun-19
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-19
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-20@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🔵 SPECIAL PRESENTATION: Propping Up the Mythos — The Art of C
+ reating a Necronomicon\, Revisited
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Since 1997\, Christian Matzke has encouraged fans to create ob
+ jects from the Cthulhu Mythos. He reveals the secrets of his most ambitio
+ us project — a 1\,000-page Elizabethan Necronomicon — through a multi
+ media presentation drawing on over 750 completed pages. Full listing: htt
+ ps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md
+ #sun-20
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-20
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-21@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T150000Z
+DTEND:20260816T163000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Lauren Elise (L. E.) Daniels\, S. L. Edwards\, Jos
+ hua Rex\, and Jeff VanderMeer. Full listing: https://github.com/todb/todb
+ /blob/main/lovecraft/necronomicon-2026/README.md#sun-21
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-21
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-22@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T160000Z
+DTEND:20260816T170000Z
+SUMMARY:🟢 Séance Lecture and Demonstration (repeat)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A repeat of the séance lecture and demonstration by husband-a
+ nd-wife performance team Judas and Magnolia\, exploring the history of co
+ mmunication with the dead before an audience-participatory theatrical enc
+ ounter. Full listing: https://github.com/todb/todb/blob/main/lovecraft/ne
+ cronomicon-2026/README.md#sun-22
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-22
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-23@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T160000Z
+DTEND:20260816T210000Z
+SUMMARY:🟢 Ars Necronomica: A Call into the Abyss (Art Exhibition)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:Final day of the "A Call into the Abyss" group art exhibition 
+ featuring over 20 artists working in weird and cosmic-horror-inspired art
+ . Free and open to the public. Full listing: https://github.com/todb/todb
+ /blob/main/lovecraft/necronomicon-2026/README.md#sun-23
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-23
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-24@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T173000Z
+DTEND:20260816T183000Z
+SUMMARY:🟢 TL Wiswell's The Dunwich Horror Op'ry
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:Set in rural Massachusetts\, 1928 — a farmer's paradise by d
+ ay and a land of fear and isolation by night — a black-and-white "pictu
+ re show"-flavored version of "The Dunwich Horror\," with the audience sup
+ plying sound effects for the invisible monster. Full listing: https://git
+ hub.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sun-24
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-24
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-25@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T170000Z
+DTEND:20260816T181500Z
+SUMMARY:🟠 First Word on Horror: Mariana Enriquez
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:Guest of Honor Philip Gelatt explores the work of Mariana Enri
+ quez — her childhood under Argentine dictatorship\, early obsessions wi
+ th the macabre and Catholicism\, and the creative process behind her haun
+ ting storytelling. Full listing: https://github.com/todb/todb/blob/main/l
+ ovecraft/necronomicon-2026/README.md#sun-25
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-25
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-26@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🟣 Invited Academic Speakers 3
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Rob Coyne\, "When Bells Toll in the Deep Dark: Gravitational W
+ aves and the Cosmic Carillon\," on hearing the universe's most violent\, 
+ lightless events. Lauren Cassidy\, "'The Ick': the horror of chemical con
+ tamination\," a brief overview of the horrors of chemistry and toxicology
+  (content warning: graphic imagery of acute exposures). Full listing: htt
+ ps://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md
+ #sun-26
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-26
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-27@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🔵 Monsters in the Closet: Queer Representation in Horror Gaming
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Queer representation in horror has come a long way from early 
+ stereotypes as evildoers and outcasts. Panelists discuss how the breadth 
+ and depth of queerness can tell incredible\, haunting stories. Panelists:
+  Tonya Monteforte (Moderator)\, Shanna Germain\, Alison Lanier\, Christop
+ her Smith-Adair. Full listing: https://github.com/todb/todb/blob/main/lov
+ ecraft/necronomicon-2026/README.md#sun-27
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-27
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-28@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🔵 Orientalism in HPL
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Orientalism mythologized "The Orient" as lands of ancient civi
+ lization and decadence\, deeply tied to colonialism and Western supremacy
+ . Panelists discuss Orientalism as it appears in Lovecraft's letters and 
+ literature. Panelists: John Langan (Moderator)\, Prema Arasu\, Zack Davis
+ son\, Matthew Spencer. Full listing: https://github.com/todb/todb/blob/ma
+ in/lovecraft/necronomicon-2026/README.md#sun-28
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-28
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-29@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🔵 Weird Film from the Pre-Code Era
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:The 1934 Hays Code had a devastating impact on Hollywood creat
+ ivity. Pre-Code films challenge conventional wisdom about early American 
+ cinema's treatment of marginalized groups\, sexuality\, and horror. Panel
+ ists: Gwen Callahan (Moderator)\, Matthew Cheney\, Gillian Daniels\, Sony
+ a Taaffe. Full listing: https://github.com/todb/todb/blob/main/lovecraft/
+ necronomicon-2026/README.md#sun-29
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-29
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-30@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🔵 It Came From the Stacks: Librarians & Archivists in Weird Fic
+ tion
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Librarians and archivists preserve\, catalog\, and safeguard m
+ ysterious tomes\, haunt forbidden archives\, and sometimes employ their k
+ nowledge to explore the supernatural for good or ill. Panelists: VJ Stone
+ craft (Moderator)\, Jeremy Brett\, Timothy Burall\, Nate Pedersen\, Jess 
+ Tucker. Full listing: https://github.com/todb/todb/blob/main/lovecraft/ne
+ cronomicon-2026/README.md#sun-30
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-30
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-31@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🔵 The Electric Nightmares of Philip K Dick
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:From the alternate-history horrors of The Man in the High Cast
+ le to the shifting realities of The Three Stigmata of Palmer Eldritch\, t
+ he panel delves into the strange\, unforgiving worlds of Philip K. Dick. 
+ Panelists: Cody Goodfellow (Moderator)\, Matthew M Bartlett\, Richard Ger
+ lach\, Derek Austin Johnson\, Eric Schaller. Full listing: https://github
+ .com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#sun-31
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-31
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-32@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T193000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Paula D. Ashe\, Alexander Dickow\, Paul Magnan\, a
+ nd Laura Tempest Zakroff. Full listing: https://github.com/todb/todb/blob
+ /main/lovecraft/necronomicon-2026/README.md#sun-32
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-32
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-33@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T180000Z
+DTEND:20260816T204500Z
+SUMMARY:🟢 Walking Tour (Rory Raven)
+LOCATION:Check the convention's Walking Tour page for the current meet-up 
+ spot
+DESCRIPTION:A guided walking tour of Lovecraft-related sites around Provid
+ ence\, led by Rory Raven. Requires a separate $15 ticket\; meeting point 
+ and details are on the convention's Walking Tour page. Full listing: http
+ s://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#
+ sun-33
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-33
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-34@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T181500Z
+DTEND:20260816T191500Z
+SUMMARY:🟠 The Cosmic Horror TV of Philip Gelatt
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:A screening of dark science-fiction shorts written for televis
+ ion by Guest of Honor Philip Gelatt\, exploring what love\, mortality\, a
+ nd synthetic lifeforms have to do with cosmic horror. Full listing: https
+ ://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/README.md#s
+ un-34
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-34
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-35@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🟣 Armitage Session 10: Cosmic Pessimism — Investigating Lovec
+ raftian Politics and Epistemological Critique
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Academic paper session chaired by Kyle Gamache. Papers: Ethan 
+ Kovnat\, "Correlating the Mind's Contents: Lovecraft's Challenge to Philo
+ sophers"\; Robert L. Ames\, "From Theory-Fiction to Petropolitical Exeges
+ is: Negarestani's Cyclonopedia and 'the Spouter'"\; Troy M. Rondinone\, "
+ Cryptid Country: Making Sense of America's Monstrous Landscape." Full lis
+ ting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/
+ README.md#sun-35
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-35
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-36@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🔵 French Fantastique in the 19th Century
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:Fantastique may have been born in Germany\, but it was polishe
+ d in France\, with tropes — vampires\, werewolves\, unspeakable crimes 
+ — familiar to modern horror fans. Panelists: Matthew Spencer (Moderator
+ )\, Jon Black\, Michael Cisco\, Alexander Dickow\, Eric Williams. Full li
+ sting: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026
+ /README.md#sun-36
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-36
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-37@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🔵 Theatre and the Weird
+LOCATION:1 West Exchange Street\, Providence\, RI
+DESCRIPTION:From Yeats's Purgatory to Beckett's Waiting for Godot\, Modern
+ ist theatre split into Ibsen-esque realism and plays drawing on Surrealis
+ m\, Dadaism\, and the grotesque. Panelists: Tonnvane Wiswell (Moderator)\
+ , David Baillie\, F. Brett Cox\, Evan Spreen\, Justin Woodman. Full listi
+ ng: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/RE
+ ADME.md#sun-37
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-37
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-38@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🔵 The Sheer Mind Bending Terror of Physics
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Science fiction\, horror\, and weird lit and film often render
+  physics in shades of profound terror — a terror of scale\, indifferenc
+ e\, and forces that don't notice us at all. Panelists: Despina Durand\, F
+ red Lubnow\, Jonas Kyratzes\, Sonya Taaffe\, Allen B. Ruch. Full listing:
+  https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/READM
+ E.md#sun-38
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-38
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-39@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🔵 Dancing Backward In The Black Lodge: David Lynch & The Weird
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:David Lynch (1946–2025) was a grand master of Weird cinema\,
+  sometimes taking it to commercial success (Twin Peaks) and sometimes cul
+ t status (Eraserhead). Panelists offer a retrospective. Panelists: Matthe
+ w Cheney (Moderator)\, Theresa DeLucci\, Joseph Dwyer\, Ryan Page\, Kayte
+  Terry. Full listing: https://github.com/todb/todb/blob/main/lovecraft/ne
+ cronomicon-2026/README.md#sun-39
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-39
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-40@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🔵 Author Readings
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Readings by Curtis M. Lawson\, Richard Gerlach\, Larissa Glass
+ er\, and Sasha Ravitch. Full listing: https://github.com/todb/todb/blob/m
+ ain/lovecraft/necronomicon-2026/README.md#sun-40
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-40
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-41@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T193000Z
+DTEND:20260816T210000Z
+SUMMARY:🟠 Short Films Block 2 (encore)
+LOCATION:20 Washington Place\, Providence\, RI
+DESCRIPTION:An encore of Short Films Block 2 — see Friday 2:15p for the 
+ full lineup and synopses. Full listing: https://github.com/todb/todb/blob
+ /main/lovecraft/necronomicon-2026/README.md#sun-41
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-41
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-42@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T200000Z
+DTEND:20260816T210000Z
+SUMMARY:🟢 "Voices in the Dark" (repeat)
+LOCATION:95 Empire Street\, Providence\, RI
+DESCRIPTION:A repeat of Friday's performance of "Voices in the Dark\," in 
+ which Lavinia Ravenwood trades ghost stories in a Welsh manor haunted by 
+ Randolph Carter. Full listing: https://github.com/todb/todb/blob/main/lov
+ ecraft/necronomicon-2026/README.md#sun-42
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-42
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-43@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T210000Z
+DTEND:20260816T220000Z
+SUMMARY:🔵 Closing Ceremony/Feedback Meeting
+LOCATION:11 Dorrance Street\, Providence\, RI
+DESCRIPTION:Program staff bring the convention to a close\, with an initia
+ l post-mortem\, statistics\, and audience feedback. (No printed end time.
+ ) (End time approximate/estimated.) Full listing: https://github.com/todb
+ /todb/blob/main/lovecraft/necronomicon-2026/README.md#sun-43
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-43
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-44@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260816T230000Z
+DTEND:20260817T000000Z
+SUMMARY:🟢 NIMF and Chris Bozzone
+LOCATION:49 Peck Street\, Providence\, RI
+DESCRIPTION:Irish avant-garde composer NIMF performs work from her Arthur 
+ Machen-inspired debut album "Sirenoscape\," alongside soundtrack composer
+  and songwriter Chris Bozzone performing a rare solo set\, culminating in
+  a preview of their forthcoming collaborative album. Free\, outdoors. Ful
+ l listing: https://github.com/todb/todb/blob/main/lovecraft/necronomicon-
+ 2026/README.md#sun-44
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-44
+END:VEVENT
+BEGIN:VEVENT
+UID:sun-45@necronomicon-2026.todb
+DTSTAMP:20260814T140220Z
+DTSTART:20260817T000000Z
+DTEND:20260817T030000Z
+SUMMARY:🟠 The Dunwich Horror Picture Show
+LOCATION:49 Peck Street\, Providence\, RI
+DESCRIPTION:The final official event of the convention — an epic send-up
+  screening of the 1970 psychedelic film "The Dunwich Horror\," preceded a
+ t 7:00p by the NIMF/Bozzone concert and\, at 8:00p\, a set from local wei
+ rd psych rock band Hemlok to set the mood before the film. Music\, beer\,
+  and movie snacks\; audience participation encouraged. Free\, outdoors\, 
+ 21+ to drink. Full listing: https://github.com/todb/todb/blob/main/lovecr
+ aft/necronomicon-2026/README.md#sun-45
+URL:https://github.com/todb/todb/blob/main/lovecraft/necronomicon-2026/REA
+ DME.md#sun-45
+END:VEVENT
+END:VCALENDAR
