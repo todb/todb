@@ -115,11 +115,11 @@ Prior to my work at Dell, I worked in various IT roles at a number of other comp
 CVE Board Member, Working Group Chair, and CNA Operator  
 2016 - Present
 
-**CVE Board:** Elected CNA Liaison to the CVE Board in December 2019; became a full Board member in February 2024.
+I was elected CVE Numbering Authority (CNA) Liaison to the CVE Board in December 2019 and became a full Board member in February 2024.
 
-**CNA Organization of Peers (COOP) Working Group:** Founded the working group in December 2019 and continue to serve as its chair.
+I founded the CNA Organization of Peers (COOP) Working Group in December 2019 and continue to serve as its chair.
 
-**CVE Numbering Authorities:** Founded and operated CNAs for Rapid7 (December 2016), Austin Hackers Anonymous (AHA!, February 2023), and runZero (December 2025). Currently operating the Dragos CNA following the October 2026 acquisition.
+I founded and operated CNAs for Rapid7 (December 2016), Austin Hackers Anonymous (AHA!, February 2023), and runZero (December 2025). I currently operate the Dragos CNA following the October 2026 acquisition.
 
 ### Austin Hackers Anonymous (AHA!)
 
