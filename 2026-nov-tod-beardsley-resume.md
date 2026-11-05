@@ -1,4 +1,4 @@
-# Tod Beardsley
+# Tod Beardsley, CISSP
 
 Austin, Texas, United States  
 [todb@hugesuccess.org](mailto:todb@hugesuccess.org)  
@@ -127,6 +127,14 @@ Co-Founder, Hacker
 2006 - Present
 
 I was a founding member of AHA!, a hacker organization that meets in the back room of Mister Tramps, a local dive bar. Every month we showcase our latest discoveries, exploits, and other technical achievements for two hours, focusing on 5- to 10-minute lightning talks. AHA!, despite its unorganized hacker collective nature, has helped launch a number of Austin-area security careers and companies. In 2023, AHA! became a CVE Numbering Authority, the only informal hacker collective in the program at the time.
+
+## Certifications
+
+### Certified Information Systems Security Professional (CISSP)
+
+ISC2  
+Active Mar 2024 - Expires Mar 2027  
+Member number 1943346, verifiable at [my.isc2.org/s/MemberVerification](https://my.isc2.org/s/MemberVerification)
 
 ## Education
 
