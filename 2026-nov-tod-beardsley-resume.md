@@ -17,7 +17,7 @@ In the past, I've been involved in intrusion prevention, vulnerability assessmen
 ### Vice President of Security Research
 
 Dragos  
-Oct 2026 - Present (less than 1 month)
+Oct 2026 - Present (2 months)
 
 I hold the same role I held at runZero (Vice President of Security Research, since February 2025), now at Dragos following its acquisition of runZero in October 2026. I report to Dragos's Chief Research Officer, who is launching the company's research team.
 
@@ -43,7 +43,7 @@ runZero was acquired by Dragos in October 2026.
 ### Congressional Campaign
 
 Volunteer Security, IT, and Data Lead  
-Dec 2025 - Present (11 months)
+Dec 2025 - Nov 2026 (1 year)
 
 I built and run the security and IT program for a 2026 U.S. House campaign, on nights and weekends. I set and enforce security baselines (mandatory 2FA, password management, and Signal for sensitive communications), administer the campaign's Google Workspace, and integrated it with Zoom, Slack, and other tools. I also run LLM-assisted data analysis, including campaign finance analysis of FEC filings and vote-target modeling for a newly redrawn district.
 
@@ -70,7 +70,7 @@ I began my federal service at CISA as a vulnerability analyst and was quickly pr
 ### Podcaster
 
 Huge Success  
-May 2020 - Present (6 years 6 months)
+May 2020 - Present (6 years 7 months)
 
 I am the primary researcher, narrator, audio engineer, social media manager, and co-host of the internationally tolerated and award-shunning podcast, "Podsothoth: A Lovecraft Book Club." We also recently started a podcasting experiment, "War in Pieces," in which I (and others) read War and Peace, one sentence at a time. It is expected to be complete in approximately 58 years.
 
